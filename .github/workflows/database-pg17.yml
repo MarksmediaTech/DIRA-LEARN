@@ -1,0 +1,44 @@
+# DIRA LEARN - database checks on PostgreSQL 17 (the version of new Supabase projects). No deployment, no secrets.
+# Installs PostgreSQL 17 from the official PostgreSQL apt repository, starts it the way the project's local stand-in expects
+# (socket /tmp, port 54322, logical WAL), then runs:
+#   tools/baseline/baseline_check.sh   the patch-free baseline equals migrations 01-39 + seed; pgTAP suite on the baseline
+#   tools/baseline/install_check.sh    the browser installation package (supabase/install), run exactly as the SQL Editor runs it
+#   tools/db-standin/db_test.sh        the full pgTAP suite on migrations 01-39 + seed
+# These checks were executed on PostgreSQL 16 when the release was built (no PostgreSQL 17 was available there); this
+# workflow is the PostgreSQL 17 confirmation. It needs no secrets.
+name: database-pg17
+on:
+  push:
+    branches: [main, 'release-**']
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  database:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install PostgreSQL 17
+        run: |
+          sudo apt-get update -q
+          sudo apt-get install -y -q postgresql-common
+          sudo /usr/share/postgresql-common/pgdg/apt.postgresql.org.sh -y
+          sudo apt-get install -y -q postgresql-17 postgresql-client-17
+          sudo systemctl stop postgresql || true
+      - name: Start PostgreSQL 17 on /tmp:54322
+        run: |
+          sudo -u postgres /usr/lib/postgresql/17/bin/initdb -D /tmp/pgdata --auth=trust -U postgres >/dev/null
+          sudo -u postgres /usr/lib/postgresql/17/bin/pg_ctl -D /tmp/pgdata -o '-k /tmp -p 54322 -c wal_level=logical' -l /tmp/pg.log -w start
+          echo "/usr/lib/postgresql/17/bin" >> "$GITHUB_PATH"
+          psql -h /tmp -p 54322 -U postgres -tAc 'select version()'
+      - name: Baseline equals the 39 migrations (and pgTAP on the baseline)
+        run: bash tools/baseline/baseline_check.sh .
+      - name: Browser installation package, as the SQL Editor runs it
+        run: bash tools/baseline/install_check.sh .
+      - name: pgTAP suite on migrations 01-39 + seed
+        run: bash tools/db-standin/db_reset.sh . && bash tools/db-standin/db_test.sh .
+      - name: Server log on failure
+        if: failure()
+        run: tail -100 /tmp/pg.log

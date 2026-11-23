@@ -1,0 +1,82 @@
+# DIRA LEARN – LOCAL Supabase settings (used by `npx supabase start` on your own computer only).
+# This file does not connect to, or change, the live (production) Supabase project.
+# Added in V13 for the Windows launcher: the project had no config.toml, which `supabase start` requires.
+# Written for Supabase CLI v3 (pinned in package.json devDependencies, so the launchers always use v3).
+# Only well-established settings are listed; Supabase fills in its standard defaults for everything else.
+
+# The local Docker containers are named after this, e.g. supabase_db_dira-learn (the launchers rely on that name).
+project_id = "dira-learn"
+
+[api]
+enabled = true
+port = 54321
+schemas = ["public", "graphql_public"]
+extra_search_path = ["public", "extensions"]
+max_rows = 1000
+
+[db]
+port = 54322
+shadow_port = 54320
+major_version = 15
+
+[studio]
+enabled = true
+port = 54323
+
+# Local test inbox (Mailpit): sign-up and password-reset emails sent by the local system appear at http://localhost:54324
+# (nothing is really emailed). Called [local_smtp] since Supabase CLI v2.108.0; the old name [inbucket] makes CLI v3 refuse to start.
+[local_smtp]
+enabled = true
+port = 54324
+
+[storage]
+enabled = true
+file_size_limit = "50MiB"
+
+[auth]
+enabled = true
+site_url = "http://localhost:5173"
+additional_redirect_urls = ["http://localhost:5173", "http://127.0.0.1:5173"]
+enable_signup = true
+# Same rules as the app (src/features/auth/signupRules.ts): at least 10 characters with letters and digits. Enforced by Supabase Auth too.
+minimum_password_length = 10
+password_requirements = "letters_digits"
+
+# Rate limits (local stack). Recovery emails share email_sent; token_verifications limits code guessing per IP address.
+[auth.rate_limit]
+email_sent = 30
+token_verifications = 30
+
+[auth.email]
+# Email sign-in stays on. Called `enabled` in Supabase CLI v3 (the older `enable_signup` here is deprecated and removed in v4).
+enabled = true
+enable_confirmations = true
+# Password recovery: a 6-digit code that expires after 15 minutes and can be requested once a minute per address.
+otp_length = 6
+otp_expiry = 900
+max_frequency = "1m"
+# A signed-in user changing their password without recovery does not need a second confirmation (unchanged default).
+secure_password_change = false
+
+# The password reset email carries a code (not a link), so email scanners cannot use it up. See docs/PASSWORD_RECOVERY.md.
+[auth.email.template.recovery]
+subject = "Your DIRA LEARN password reset code"
+content_path = "./supabase/templates/recovery.html"
+
+[realtime]
+enabled = true
+
+# The first-administrator setup is called from /setup BEFORE anyone can sign in, so the gateway must not demand a user
+# session. The function protects itself: one-time SETUP_CODE secret (constant-time check, 1 s delay), fixed FIRST_ADMIN_EMAIL,
+# refuses once a Super Administrator exists. When deploying from the Dashboard, switch "Verify JWT" OFF for this function only.
+[functions.bootstrap-first-admin]
+verify_jwt = false
+
+# Resend's delivery webhook cannot send a Supabase JWT; the function checks the Svix signature (RESEND_WEBHOOK_SECRET) instead.
+[functions.email-webhook]
+verify_jwt = false
+
+# 22 Nov 2026: the scheduler (Supabase Cron) calls the Google Calendar sync with the x-cron-secret header and no user session;
+# the function checks that secret (constant time) or a signed-in staff/trainer session itself. Dashboard deploy: "Verify JWT" OFF.
+[functions.google-calendar-sync]
+verify_jwt = false

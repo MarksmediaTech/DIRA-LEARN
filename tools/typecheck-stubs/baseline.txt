@@ -1,0 +1,19 @@
+src/components/ui/PhotoStage.test.tsx: error TS7006: Parameter '_n' implicitly has an 'any' type.
+src/components/ui/PhotoStage.test.tsx: error TS7006: Parameter 'ui' implicitly has an 'any' type.
+src/features/applications/ApplicationForm.tsx: error TS7006: Parameter 'v' implicitly has an 'any' type.
+src/features/auth/AuthProvider.tsx: error TS7006: Parameter '_e' implicitly has an 'any' type.
+src/features/auth/AuthProvider.tsx: error TS7006: Parameter 's' implicitly has an 'any' type.
+src/features/auth/SetupPage.tsx: error TS7031: Binding element 'data' implicitly has an 'any' type.
+src/features/auth/SetupPage.tsx: error TS7031: Binding element 'e' implicitly has an 'any' type.
+src/features/certificates/CertificatesPage.tsx: error TS7006: Parameter 'x' implicitly has an 'any' type.
+src/features/certificates/CertificatesPage.tsx: error TS7006: Parameter 'x' implicitly has an 'any' type.
+src/features/cohorts/CohortDetailPage.tsx: error TS7006: Parameter 'v' implicitly has an 'any' type.
+src/features/cohorts/CohortsPage.tsx: error TS7006: Parameter 'v' implicitly has an 'any' type.
+src/features/courses/CourseDetailPage.tsx: error TS2322: Type 'Set<unknown>' is not assignable to type 'Set<string>'.
+src/features/courses/CourseDetailPage.tsx: error TS7006: Parameter 'd' implicitly has an 'any' type.
+src/features/courses/CourseDetailPage.tsx: error TS7006: Parameter 'r' implicitly has an 'any' type.
+src/features/courses/CourseDetailPage.tsx: error TS7006: Parameter 'r' implicitly has an 'any' type.
+src/features/curriculum/ApprovalCenterPage.tsx: error TS7006: Parameter 'e' implicitly has an 'any' type.
+src/features/emails/EmailsPage.tsx: error TS7006: Parameter 'e' implicitly has an 'any' type.
+src/features/results/ResultsPage.tsx: error TS7006: Parameter 'x' implicitly has an 'any' type.
+src/features/results/ResultsPage.tsx: error TS7006: Parameter 'x' implicitly has an 'any' type.

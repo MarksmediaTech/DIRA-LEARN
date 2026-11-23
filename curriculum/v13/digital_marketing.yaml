@@ -1,0 +1,1442 @@
+# DIRA LEARN V13 curriculum source: Digital Marketing specialist track (replaces Digital Skills; internal track code stays 'digital'
+# so existing enrolments, schedules and records keep pointing at the same track). Six sessions of 120 minutes (timetable unchanged).
+track: digital
+track_name: Digital Marketing
+track_focus: >-
+  Reach and win customers online. Learners build a business's online presence, understand their audience, plan and design content, write persuasive copy,
+  use WhatsApp Business, search and simple advertising, measure results, and finish by building and presenting a basic digital marketing campaign for a
+  real Kenyan business, cause or their own idea.
+project: >-
+  Final project - a basic digital marketing campaign for a real brief (a local business, youth enterprise, community organisation or the learner's own idea).
+  It contains a SMART objective, a customer persona, a channel plan, a brand mini-kit, a two-week content calendar, at least three finished posts with captions,
+  a WhatsApp Business plan, a small KES budget, the measures of success and a short results or test report, presented in session 8. Privacy option: a learner
+  who cannot or does not wish to publish publicly may run the campaign as a private test (peers, or a small WhatsApp group whose members agreed to take
+  part) or build it for the simulated brief provided by the facilitator, with mock-up posts and clearly labelled estimated results; it is assessed on the
+  same rubric. A real business's name, logo, photos, prices or customer information are used only with the owner's written permission.
+sessions:
+- session_no: 3
+  week_no: 2
+  duration: 120
+  title: Digital marketing foundations, online presence and reputation
+  description: >-
+    How digital marketing works, the main channels and strategies, digital footprint and online reputation, and building a strong personal and business
+    presence. Learners choose their campaign brief.
+  purpose: >-
+    Learners understand what digital marketing is, how customers move from first seeing a business to buying and returning, and which channels Kenyan small
+    businesses use. They audit their own and a business's digital footprint, learn how reputation is built and repaired online, improve a profile, and choose
+    the real business or cause they will build their campaign for.
+  objectives:
+  - Explain digital marketing and the customer journey (awareness, consideration, conversion, loyalty) using a local business example
+  - Compare owned, earned and paid channels and name at least five digital channels used by Kenyan businesses
+  - Audit a digital footprint (personal and business) and identify three risks and three improvements
+  - Respond professionally to a negative online review
+  - Improve one personal or business profile for clarity, trust and contact
+  - Choose a campaign brief and draw a first channel map for it
+  topics:
+  - title: What digital marketing is
+    subtopics:
+    - Marketing versus selling
+    - Digital versus traditional marketing (posters, radio, word of mouth)
+    - Why small businesses in Kenya market on phones
+    - What a campaign is
+  - title: The customer journey
+    subtopics:
+    - Awareness
+    - Consideration
+    - Conversion
+    - Loyalty and referral
+    - Where each channel helps
+  - title: Digital marketing channels and strategies
+    subtopics:
+    - Owned channels (profiles, WhatsApp Business, website, Google Business Profile)
+    - Earned channels (shares, reviews, word of mouth, media)
+    - Paid channels (boosted posts, ads, influencers)
+    - Marketplaces (Jumia, Kilimall, Facebook Marketplace)
+    - SMS and email
+    - Choosing channels by audience and budget
+  - title: Digital footprint and online reputation
+    subtopics:
+    - Active and passive footprint
+    - What employers and customers find when they search you
+    - Reviews and ratings
+    - Responding to complaints
+    - Protecting privacy and safety
+  - title: Personal and business online presence
+    subtopics:
+    - Name, photo or logo, bio and contact consistency
+    - Trust signals (reviews, real photos, location, opening hours, payment details)
+    - The difference between a personal and a business account
+  segments:
+  - minutes: 10
+    title: Welcome to Digital Marketing and track overview
+    kind: introduction
+    summary: Meet your track group, see the six sessions and the final campaign you will build.
+    steps:
+    - >-
+      Welcome learners to the track. Show the six-session journey on one slide: S3 foundations and presence, S4 audiences, social media and WhatsApp Business,
+      S5 brand, content plan and graphics, S6 copy, conversion and search, S7 ads, budget, measurement and campaign build, S8 showcase.
+    - >-
+      Show a one-slide example of a finished campaign for a fictional business, 'Shiru's Bakes' (a home bakery in Ruiru selling cakes and bread on WhatsApp
+      and Instagram): objective, persona, three posts, a KES 1,000 budget and results. Say: by session 8 you will have one like this for a real business.
+    - Ask learners to share in the chat or aloud one business they buy from because of something they saw online.
+  - minutes: 20
+    title: What digital marketing is, the customer journey and channels
+    kind: lesson
+    summary: Learn how customers move from noticing a business to buying again, and which channels help at each stage.
+    steps:
+    - >-
+      Define it: digital marketing is using online channels - social media, WhatsApp, search, marketplaces, SMS and email - to help the right people find,
+      trust, choose and return to a business. Selling is the moment of purchase; marketing is everything that makes that moment more likely.
+    - >-
+      Draw the customer journey with the Shiru's Bakes example. Awareness - a neighbour shares her cake photo on WhatsApp status. Consideration - the customer
+      checks Instagram for prices and reviews. Conversion - orders on WhatsApp and pays with M-Pesa. Loyalty - gets a thank-you message and a birthday discount
+      next year and refers a friend.
+    - >-
+      Explain owned, earned and paid channels with examples. Owned - the business's own Instagram, WhatsApp Business, Google Business Profile, website.
+      Earned - reviews, shares, customers tagging the business, a local blog mention. Paid - boosted posts, Meta or Google ads, paying a micro-influencer.
+      Most small Kenyan businesses start owned and earned, then add a little paid.
+    - >-
+      Tour the main channels quickly: Facebook, Instagram, TikTok, LinkedIn, WhatsApp Business, Google Search and Maps (Google Business Profile), marketplaces
+      (Jumia, Kilimall, Facebook Marketplace), SMS and email. One line each on who uses it and what it is good for. Say that the next sessions go deeper
+      into each.
+    - >-
+      Strategy in one sentence: right message, right people, right channel, right time, with a clear action. Ask: which channels would a mama mboga in Kawangware
+      use, and which would a Nairobi graphic designer use? Why different?
+  - minutes: 15
+    title: Digital footprint and online reputation
+    kind: lesson
+    summary: Understand what your online trail says about you or a business, and how reputation is protected and repaired.
+    steps:
+    - >-
+      Explain the digital footprint. Active - what you post, comment, like and share. Passive - what others post about you, tags, reviews, location data,
+      search results. Both stay for a long time and screenshots last forever.
+    - >-
+      Explain why it matters: employers and clients search candidates; customers read reviews before buying. A single rude reply to a complaint can travel
+      further than ten good posts.
+    - >-
+      Reputation rules for a business: respond to every review (good or bad) within a day, thank publicly, solve privately, never argue or reveal a customer's
+      personal details, fix the real problem, and ask happy customers for reviews.
+    - >-
+      Teach the review reply model ACE - Acknowledge ('Thank you for telling us, we are sorry your order was late'), Correct or explain briefly without
+      excuses ('our rider had a breakdown'), Engage offline ('please WhatsApp us on our business number so we can make it right').
+    - >-
+      Privacy and safety: business accounts should use a business number, not a personal one; do not post customers' faces, children or home locations without
+      consent; under Kenya's Data Protection Act 2019, customer data such as phone numbers must be collected and used fairly and for a clear purpose.
+  - minutes: 15
+    title: Demonstration - footprint audit and review reply
+    kind: demonstration
+    summary: Watch a live audit of a business's online presence and a professional reply to a bad review.
+    steps:
+    - >-
+      Search a fictional or consenting local business name on Google and social media (prepare screenshots in case of poor connection). Score it with the
+      presence checklist: name consistent, clear photo or logo, bio says what and where, contact and payment details, opening hours, recent posts, reviews,
+      replies to reviews.
+    - 'Show a fictional one-star review: ''Waited 2 hours for my cake and it was the wrong flavour. Never again.'' Write the ACE reply live and read it
+      aloud.'
+    - Show a bad reply ('You are lying, we delivered on time') and ask learners what damage it does.
+    - >-
+      Do a personal footprint search on yourself (prepared in advance) and show what you cleaned up: old public posts, a phone number in a bio, an unprofessional
+      username.
+  - minutes: 5
+    title: Stretch break
+    kind: break
+    summary: A five-minute stretch and movement break (seated option available).
+    steps:
+    - Invite everyone to stand, stretch, walk or drink water for five minutes; offer a seated option for anyone who prefers or needs it.
+    - Restart on time with a one-line reminder of where the session is and what comes next.
+  - minutes: 20
+    title: Presence audit and profile improvement
+    kind: exercise
+    summary: Audit your own footprint and a business profile, then improve one profile.
+    steps:
+    - >-
+      Part A (10 min, individual): learners search their own name and usernames. They list what they find, mark anything they would not want an employer
+      or customer to see, and check privacy settings. Remind them not to share private findings with the group unless they want to.
+    - >-
+      Part B (15 min, individual): learners audit one business profile (their own business, a family business, or a business they will use as their campaign
+      brief, with the owner's agreement) using the presence checklist, then write the improved version of the bio, the profile photo or logo choice, contact
+      line and pinned post or highlight.
+    - >-
+      Give a bio formula: what you sell + who it is for + where + how to order. Example: 'Fresh cakes and bread for birthdays and offices in Ruiru and Juja.
+      Order on WhatsApp 07XX XXX XXX. Pay via M-Pesa Till.'
+    - Circulate. Check that learners use a business number and do not publish home addresses.
+  - minutes: 20
+    title: Choose your campaign brief and draw a channel map
+    kind: group
+    summary: Pick the real business or cause for your campaign and map which channels its customers use.
+    steps:
+    - >-
+      Explain brief options: (a) a real local business with the owner's permission (a salon, cyber cafe, kinyozi, poultry farmer, fashion seller, food vendor);
+      (b) a youth enterprise or community organisation (a youth recycling group, a church project, a sports club); (c) the learner's own business idea.
+      The brief must be real enough to test with real people.
+    - >-
+      Each learner writes a one-paragraph brief: business name, what it sells or does, location, current customers, the problem (for example few new customers,
+      quiet weekdays, low trust online), and one thing the owner wants in the next month.
+    - >-
+      In groups of three, learners take turns presenting their brief and drawing a channel map: list the channels, mark which ones the customers actually
+      use, and choose two main channels and one support channel. Peers challenge choices ('Do your customers really use LinkedIn?').
+    - >-
+      Learners save the brief and channel map in their DIRA LEARN portfolio folder. Remind them to tell the business owner what they are doing and get agreement
+      before posting anything for the business.
+  - minutes: 10
+    title: Knowledge check
+    kind: assessment
+    summary: Answer short questions on the customer journey, channels and reputation.
+    steps:
+    - Run the five assessment questions as a quick quiz (DIRA LEARN, a poll or on paper).
+    - Go through answers and correct misunderstandings immediately.
+  - minutes: 5
+    title: Wrap-up and homework
+    kind: conclusion
+    summary: Summarise the session and confirm your homework.
+    steps:
+    - Ask three learners to say one thing they will change in their profile or business presence this week.
+    - Set the homework and remind learners to bring their brief to session 4.
+  demonstrations:
+  - title: Business presence audit with the checklist
+    steps:
+    - Search the business on Google, Maps, Facebook, Instagram and TikTok.
+    - Score each checklist item live and note the top three fixes.
+  - title: Replying to a negative review with ACE
+    steps:
+    - Read the review, identify the real problem, write Acknowledge, Correct, Engage, then compare with a bad reply.
+  guided_exercises:
+  - title: Customer journey mapping
+    instructions: Map one business you know through awareness, consideration, conversion and loyalty, naming the channel at each step.
+  - title: Review reply
+    instructions: Write an ACE reply to a fictional complaint about a late delivery or a wrong order.
+  individual_activities:
+  - title: Personal footprint audit
+    instructions: Search your name and usernames, list what you find, fix privacy settings and remove anything you would not want an employer to see.
+  - title: Business profile improvement
+    instructions: Audit one business profile with the presence checklist and write the improved bio, contact line and profile image choice.
+  - title: Campaign brief
+    instructions: >-
+      Write a one-paragraph brief for the business or cause you will market in this track. Choose a real business or cause (with the owner's agreement)
+      or the simulated brief from the facilitator.
+  group_activities:
+  - title: Channel map challenge
+    instructions: Present your brief to two peers, draw the channel map, choose two main channels and one support channel and defend your choice.
+  examples:
+  - Shiru's Bakes, a fictional Ruiru home bakery, used to illustrate the customer journey throughout the track.
+  - A mama mboga in Kawangware who takes orders by WhatsApp and announces fresh deliveries on WhatsApp status.
+  - A kinyozi in Kahawa West that gained new customers after listing on Google Maps with photos and opening hours.
+  - A Gikomba mitumba trader who sells on Facebook Marketplace and TikTok live.
+  - A youth recycling group in Kibera using Facebook and X to recruit volunteers and find buyers for recycled products.
+  tools:
+  - Phones or computers with internet
+  - Google Search and Google Maps
+  - Facebook, Instagram, TikTok, LinkedIn and WhatsApp Business (for viewing; learners use their own accounts)
+  - Presence checklist, campaign brief template and channel map template
+  - Prepared screenshots for the demonstration (backup for poor connectivity)
+  assessment:
+  - question: Name the four stages of the customer journey and one channel that helps at each.
+    guide: >-
+      Awareness (status, TikTok, shares), consideration (Instagram, reviews, Google profile), conversion (WhatsApp order, M-Pesa till), loyalty (thank-you
+      message, offer, referral).
+  - question: What is the difference between owned, earned and paid channels? Give an example of each.
+    guide: Owned - business controls it (WhatsApp Business, Instagram page). Earned - others give it (reviews, shares). Paid - you pay for reach (boosted
+      post, ad).
+  - question: What is a passive digital footprint?
+    guide: Information others create about you or that is collected automatically (tags, reviews, location data, search results).
+  - question: A customer posts an angry review. Write the first sentence of your reply.
+    guide: Should acknowledge and apologise or thank, without arguing or blaming the customer.
+  - question: Why should a business use a business phone number on its profiles?
+    guide: Privacy and safety for the owner, professionalism, separating personal and business messages, continuity if staff change.
+  expected_outputs:
+  - Personal digital footprint audit (kept private) with privacy settings fixed
+  - Improved personal or business profile (bio, image, contact, trust signals)
+  - One-paragraph campaign brief
+  - Channel map with two main channels and one support channel
+  facilitator:
+    preparation:
+    - Prepare the Shiru's Bakes example campaign slide and the presence checklist.
+    - Prepare screenshots of a business presence (fictional or with written consent) for the demonstration.
+    - >-
+      Prepare a list of possible local briefs for learners who do not have a business to work with (for example a community group DIRA works with, with
+      their consent).
+    delivery:
+    - Keep theory short and practical; every concept should be tied to a Kenyan business learners recognise.
+    - When learners choose briefs, push for real and specific businesses; a vague brief makes every later session harder.
+    - The footprint audit is personal; do not ask learners to show results publicly.
+    inclusion_and_safeguarding:
+    - Remind learners never to post content about a business, customer or person without consent.
+    - Learners must not share home addresses, children's images or personal numbers in their projects.
+    - If a footprint search reveals harassment or abusive content about a learner, follow up privately and use the DIRA LEARN safeguarding process if needed.
+    - >-
+      Consent and privacy: before using an identifiable person (face, voice or name), a photograph of someone, or a real business's name, logo, prices,
+      customer details or results, the learner gets permission from that person or owner - in writing (a WhatsApp message is enough) for anything shown
+      outside the class. Never children. Learners who cannot or do not wish to publish publicly use the private or simulated option, which is assessed with
+      the same rubric and never marked down.
+    after_session:
+    - Review the briefs in the portfolio folder and flag any that are too vague or unsafe before session 4.
+    - Record attendance in DIRA LEARN and upload the slides and templates to the session resources.
+  homework:
+  - >-
+    Talk to the business owner (or yourself, if it is your idea) and confirm the brief - what they sell, who buys, and what they want to improve. Ask for
+    written permission (a WhatsApp message is enough) to use the business's name, logo, photos and prices. If you cannot get permission, or prefer not to
+    work in public, use the simulated brief from the facilitator.
+  - Make the profile improvements you wrote in class.
+  - >-
+    Ask three real customers of the business how they first heard about it. Bring their answers to session 4. Tell them why you are asking, and note answers
+    without names.
+  cross_track_notes:
+  - Core session 2 covered the learner's personal profile. Here the focus is a business's presence and reputation and the strategy behind channel choice.
+  - Content Creation also covers platform formats, but from the creator's craft angle; Digital Marketing chooses channels and content to reach a business
+    goal.
+- session_no: 4
+  week_no: 2
+  duration: 120
+  title: Target audiences, social media marketing and WhatsApp Business
+  description: >-
+    Define target audiences and customer personas, use Facebook, Instagram, TikTok and LinkedIn for marketing, and set up WhatsApp Business to serve and
+    sell to customers.
+  purpose: >-
+    Learners stop marketing to 'everyone'. They define a target audience and build a customer persona from real information, learn what each major social
+    platform is best for and how its content is shown to people, and set up a WhatsApp Business profile with a catalogue, greeting and quick replies. They
+    leave with a persona and a platform plan for their campaign.
+  objectives:
+  - Explain target audience, segmentation and customer persona with examples
+  - Build a customer persona from real customer answers (demographics, needs, problems, habits, where they spend time online)
+  - Compare Facebook, Instagram, TikTok and LinkedIn by audience, content formats and best uses for marketing
+  - Explain in simple terms how feeds decide what people see (relevance, engagement, consistency)
+  - Set up or plan a WhatsApp Business profile with a catalogue, greeting, away message, quick replies and labels
+  - Use broadcast lists and status responsibly, with customer consent
+  - Choose the platforms and posting frequency for their campaign
+  topics:
+  - title: Target audiences and segmentation
+    subtopics:
+    - Who is your customer (not everyone)
+    - Segmenting by age, location, income, interests and needs
+    - Primary and secondary audiences
+    - Using real customer conversations
+  - title: Customer personas
+    subtopics:
+    - Name, age and situation
+    - Goals and problems
+    - Buying habits and budget
+    - Online habits
+    - Objections and what builds trust
+  - title: Social media marketing on Facebook, Instagram, TikTok and LinkedIn
+    subtopics:
+    - Facebook - pages, groups and Marketplace
+    - Instagram - posts, reels, stories, highlights
+    - TikTok - short video, trends, sounds and lives
+    - LinkedIn - professional services, B2B and careers
+    - Business and creator accounts and their insights
+    - How feeds choose content
+  - title: WhatsApp Business
+    subtopics:
+    - Business profile
+    - Catalogue and prices
+    - Greeting and away messages
+    - Quick replies
+    - Labels for orders
+    - Status for updates
+    - Broadcast lists and consent
+    - Professional response times
+  segments:
+  - minutes: 10
+    title: Recap and customer answers
+    kind: introduction
+    summary: Share what customers said about how they found the business.
+    steps:
+    - Ask four learners to share what customers told them about how they found the business. Write the channels on the board and count them.
+    - Point out that word of mouth and WhatsApp usually appear often for small Kenyan businesses; this is evidence, not guesswork, and it should shape the
+      campaign.
+  - minutes: 20
+    title: Target audiences and customer personas
+    kind: lesson
+    summary: Learn how to choose a specific audience and describe them as a persona.
+    steps:
+    - >-
+      Explain why 'everyone' is not a target audience: a small budget spread over everyone reaches no one well. A clear audience makes it easier to choose
+      channels, words and images.
+    - >-
+      Teach segmentation with Shiru's Bakes. Segment 1 - working mothers in Ruiru and Juja ordering birthday cakes. Segment 2 - small offices ordering bread
+      and snacks weekly. Segment 3 - university students at nearby campuses buying cupcakes for events. Choose one primary segment for the campaign.
+    - >-
+      Build a persona live: 'Mercy, 32, accountant in Juja, two children, orders a cake 4 times a year, budget KES 2,000 to 3,500, scrolls Facebook and
+      WhatsApp status in the evening, worried about late delivery and cakes that look different from the photo, trusts recommendations from other mothers.'
+    - >-
+      Explain each persona part and how it changes marketing: her worry about late delivery means the campaign must show on-time delivery proof; her evening
+      scrolling means posting at 7 to 9 pm.
+    - Warn against stereotypes; personas must come from real conversations and data (the homework answers), not assumptions.
+  - minutes: 15
+    title: Build your customer persona
+    kind: exercise
+    summary: Create a persona for your campaign using the template and real customer answers.
+    steps:
+    - >-
+      Learners fill the persona template for their brief - name, age, location, situation, goals, problems, budget, buying habits, online habits, objections,
+      what builds trust.
+    - Every persona must include at least two facts from real customer answers. Learners mark them with a star.
+    - Swap with a partner, who asks two questions the persona does not yet answer. Learners update it.
+  - minutes: 20
+    title: Social media marketing on four platforms
+    kind: lesson
+    summary: Compare Facebook, Instagram, TikTok and LinkedIn and how each shows content to people.
+    steps:
+    - >-
+      Facebook: broad adult audience across Kenya, strong for local community groups, Marketplace and events. Formats - posts, photos, videos, reels, groups,
+      Marketplace listings. Good for - local services, second-hand goods, community organisations, older customers. Tip - join and contribute to local groups
+      (estate, town, university) and follow each group's rules on promotion.
+    - >-
+      Instagram: visual, younger urban audience. Formats - feed posts, carousels, reels, stories, highlights. Good for - fashion, food, beauty, photography,
+      events. Tip - highlights for prices, how to order and reviews; a clear bio with a WhatsApp link.
+    - >-
+      TikTok: short video and discovery, people can find you even with zero followers. Formats - short videos, trends, sounds, duets, lives. Good for -
+      showing products being made or used, behind the scenes, personality-led brands. Tip - the first 2 seconds decide if people keep watching.
+    - >-
+      LinkedIn: professional audience. Formats - posts, articles, company pages. Good for - professional services, B2B, recruitment, NGOs, a learner's own
+      career. Tip - share lessons and results, not hard selling.
+    - >-
+      How feeds decide (simplified): platforms show content people are likely to engage with - watch time, saves, shares, comments and how quickly people
+      react. Consistency and relevance beat posting a lot. Explain business or professional accounts and their insights (reach, engagement, audience age
+      and location).
+    - >-
+      Quick discussion: which two platforms fit Mercy (the persona)? Facebook and WhatsApp status, maybe Instagram. Which fit a youth photographer in Kisumu?
+      Instagram and TikTok.
+  - minutes: 5
+    title: Stretch break
+    kind: break
+    summary: A five-minute stretch and movement break (seated option available).
+    steps:
+    - Invite everyone to stand, stretch, walk or drink water for five minutes; offer a seated option for anyone who prefers or needs it.
+    - Restart on time with a one-line reminder of where the session is and what comes next.
+  - minutes: 20
+    title: Demonstration and practice - WhatsApp Business
+    kind: demonstration
+    summary: See a WhatsApp Business profile set up step by step, then plan or set up your own.
+    steps:
+    - >-
+      Explain that WhatsApp Business is a separate free app for businesses and that it should run on a business number. Do not ask learners to switch their
+      personal number in class.
+    - >-
+      Demonstrate on a test phone (or screenshots): business profile (name, category, description, address or service area, hours, email, website or Instagram),
+      catalogue (item photo, name, price in KES, short description), greeting message ('Karibu Shiru's Bakes! Send us the cake size and date and we will
+      reply within 30 minutes'), away message, quick replies (/prices, /delivery, /mpesa), and labels (New order, Paid, Delivered).
+    - >-
+      Status and broadcast lists: status is good for daily updates (today's fresh bread); broadcast lists only reach people who have saved your number,
+      which is a good consent signal. Never add people to groups or lists without their agreement, and always offer a way to stop messages ('Reply STOP
+      to stop updates').
+    - >-
+      Learners write their own WhatsApp Business plan - profile description, three catalogue items with KES prices, greeting message, away message, three
+      quick replies and three labels. Learners who already run a business number can set it up now.
+  - minutes: 15
+    title: Platform plan for your campaign
+    kind: group
+    summary: Choose your campaign platforms, formats and posting times based on your persona.
+    steps:
+    - >-
+      In groups of three, each learner completes the platform plan: main platform, support platform, WhatsApp Business role, content formats, posting days
+      and times, and why (linked to the persona).
+    - Peers check each plan against the persona and challenge anything that does not match (for example TikTok-only for a persona who never uses TikTok).
+    - Learners add the persona and platform plan to their campaign folder.
+  - minutes: 10
+    title: Knowledge check
+    kind: assessment
+    summary: Answer short questions on personas, platforms and WhatsApp Business.
+    steps:
+    - Run the assessment questions and discuss the answers.
+  - minutes: 5
+    title: Wrap-up and homework
+    kind: conclusion
+    summary: Summarise and confirm the homework.
+    steps:
+    - Each learner says their persona's name and main platform in one sentence.
+    - Set the homework.
+  demonstrations:
+  - title: Building a persona from real answers
+    steps:
+    - Read three real or realistic customer quotes, extract facts and fill the persona template live.
+  - title: WhatsApp Business set-up
+    steps:
+    - Walk through profile, catalogue, greeting, away message, quick replies and labels on a test device or screenshots.
+    - Show status and a broadcast list with an opt-out line.
+  guided_exercises:
+  - title: Segment and choose
+    instructions: List three customer segments for your brief and choose one primary segment with a reason.
+  individual_activities:
+  - title: Customer persona
+    instructions: Complete the persona template with at least two facts from real customer answers.
+  - title: WhatsApp Business plan
+    instructions: Write the profile description, three catalogue items with prices, greeting and away messages, three quick replies and three labels.
+  group_activities:
+  - title: Persona questions
+    instructions: Swap personas with a partner who asks two questions it does not answer yet; update your persona.
+  - title: Platform plan challenge
+    instructions: Present your platform plan to two peers, who check it against your persona.
+  examples:
+  - Shiru's Bakes persona 'Mercy, 32, accountant in Juja'.
+  - A Kisumu photographer who books graduation shoots through Instagram highlights and a WhatsApp link.
+  - A Nairobi CV-writing freelancer who finds clients on LinkedIn by posting before-and-after CV tips.
+  - A Kakamega poultry farmer who sends weekly egg prices to a broadcast list of 80 customers who saved his number.
+  - A mitumba trader in Gikomba who sells through TikTok lives in the evening.
+  tools:
+  - Persona template and platform plan template
+  - WhatsApp Business app on a test phone, or prepared screenshots
+  - Facebook, Instagram, TikTok and LinkedIn (viewing examples)
+  - Homework answers from customers
+  assessment:
+  - question: Why is 'everyone' not a good target audience for a small business?
+    guide: Limited budget and time; a specific audience makes messages, channels and timing more effective.
+  - question: Name four parts of a customer persona.
+    guide: Any four of demographics, situation, goals, problems, budget, buying habits, online habits, objections, trust triggers.
+  - question: Which platform would you choose for a B2B cleaning company and why?
+    guide: LinkedIn (professional decision-makers), possibly Facebook and WhatsApp for local reach. Reason must refer to the audience.
+  - question: Name three WhatsApp Business features that save time.
+    guide: Quick replies, greeting and away messages, catalogue, labels.
+  - question: What must you do before adding a customer to a broadcast list or group?
+    guide: Get their agreement (they saved your number or asked for updates) and give a way to stop messages.
+  expected_outputs:
+  - Customer persona based on real customer information
+  - WhatsApp Business plan (or a set-up profile on a business number)
+  - Platform plan with formats, posting times and reasons
+  facilitator:
+    preparation:
+    - Install WhatsApp Business on a test phone with a test number, or prepare clear screenshots of every step.
+    - Prepare examples of real Kenyan business pages on each platform (public pages only) for the platform comparison.
+    - Print or share the persona and platform plan templates.
+    delivery:
+    - Do not teach every platform feature; focus on what each platform is for and what works for small businesses.
+    - >-
+      Check that personas are based on real answers. If a learner did not do the homework, they can interview a classmate who fits the persona as a stopgap
+      and must complete real interviews before session 5.
+    inclusion_and_safeguarding:
+    - Learners must not add people to groups or broadcast lists without consent.
+    - Remind learners not to share personal numbers publicly; recommend a separate business number where possible.
+    after_session:
+    - Review personas and platform plans; give written feedback in DIRA LEARN on at least one point per learner.
+    - Record attendance.
+  homework:
+  - Interview two more real customers or potential customers to test your persona and update it.
+  - Follow three Kenyan businesses on your main platform and note what they post, when, and what gets the most engagement.
+  - If the business owner agrees, set up or improve their WhatsApp Business profile.
+  cross_track_notes:
+  - >-
+    Entrepreneurship & Business also defines customers and target markets, to decide whether a business idea is worth building. Digital Marketing builds
+    personas to decide channels, messages and timing for an existing offer.
+- session_no: 5
+  week_no: 3
+  duration: 120
+  title: Branding, content planning and marketing graphics
+  description: Build a simple brand identity, plan content with pillars and a two-week calendar, and design marketing graphics that communicate clearly.
+  purpose: >-
+    Learners give their campaign a consistent look and voice, turn their persona and platform plan into a two-week content calendar with clear content pillars,
+    and design their first marketing graphics in a free design tool using visual communication principles.
+  objectives:
+  - Explain branding and brand identity (name, promise, personality, voice, colours, fonts, logo) with local examples
+  - Create a brand mini-kit for their campaign business
+  - Define three or four content pillars and a content mix for their persona
+  - Build a two-week content calendar with dates, platforms, formats, captions ideas and goals
+  - Apply visual communication principles (hierarchy, contrast, alignment, white space, readable text) to a marketing graphic
+  - Design two marketing graphics in Canva (or a similar free tool) that follow the brand mini-kit
+  topics:
+  - title: Branding and brand identity
+    subtopics:
+    - Brand versus logo
+    - Brand promise
+    - Brand personality and voice
+    - Colours, fonts and imagery
+    - Consistency builds recognition and trust
+  - title: Content planning
+    subtopics:
+    - Content pillars
+    - Content mix (educate, entertain, inspire, sell, community)
+    - Posting frequency that is realistic
+    - Using the persona to choose topics
+  - title: Content calendars
+    subtopics:
+    - Calendar columns (date, platform, format, pillar, idea, caption hook, call to action, status)
+    - Planning around local dates (paydays, holidays, back to school, exams, festive season)
+    - Batching content
+  - title: Marketing graphics and visual communication
+    subtopics:
+    - Visual hierarchy
+    - Contrast and readability on small phone screens
+    - Alignment and white space
+    - Using real product photos
+    - Templates without looking generic
+    - Image sizes for each platform
+  segments:
+  - minutes: 10
+    title: Recap and what businesses post
+    kind: introduction
+    summary: Share what you noticed about the businesses you followed.
+    steps:
+    - >-
+      Ask learners what kinds of posts got the most engagement for the businesses they followed. Group the answers (behind the scenes, offers, tips, customer
+      photos, humour).
+    - Link to today - those patterns become content pillars.
+  - minutes: 20
+    title: Branding and brand identity
+    kind: lesson
+    summary: Learn what a brand is and the parts of a simple brand identity.
+    steps:
+    - >-
+      Define brand: what people feel and expect from a business. The logo is only a symbol. Ask learners to describe the feeling of two well-known Kenyan
+      brands (for example a telecom company and a local dairy) in three words.
+    - >-
+      Teach the parts of brand identity: name; brand promise (one sentence on what customers can always expect, for example 'Fresh cakes, on time, exactly
+      as in the photo'); personality (three adjectives - warm, reliable, playful); voice (how it writes - friendly English with a little Sheng or Kiswahili,
+      or formal); visual identity (two or three colours, one or two fonts, photo style, logo).
+    - >-
+      Show the Shiru's Bakes mini-kit: promise, personality 'warm, reliable, celebratory', voice examples ('Karibu!', 'Your celebration, our pleasure'),
+      colours (a warm pink, cream, chocolate brown with their codes), fonts (one bold heading font, one clean body font), photo style (natural light, real
+      cakes, customers' smiles with consent).
+    - >-
+      Consistency: the same name, profile image, colours and voice across all platforms make a small business look trustworthy. Show an inconsistent example
+      (different names and logos on each platform) and ask what customers might think.
+    - 'Ethics: do not copy another brand''s logo, name or designs; this can confuse customers and infringe trademarks or copyright.'
+  - minutes: 15
+    title: Create your brand mini-kit
+    kind: exercise
+    summary: Write a brand promise, personality, voice and choose colours and fonts for your campaign business.
+    steps:
+    - >-
+      Learners complete the brand mini-kit template - promise, three personality words, voice (three example phrases), two or three colours with codes,
+      fonts and photo style. If the business already has a brand, they document it and suggest one improvement.
+    - >-
+      In Canva (or similar), learners create a simple brand kit page or a screenshot of colours and fonts. Learners without a device do it on paper with
+      coloured pens.
+    - Two volunteers show their kits; the group checks whether the visuals match the personality words.
+  - minutes: 15
+    title: Content pillars and the content calendar
+    kind: lesson
+    summary: Learn how to plan content around pillars and organise it in a calendar.
+    steps:
+    - >-
+      Explain content pillars - three or four themes the business always posts about, linked to persona needs. Shiru's Bakes - (1) Celebration ideas, (2)
+      Behind the scenes (baking, delivery), (3) Happy customers (reviews and photos with consent), (4) Offers and how to order.
+    - 'Content mix: not every post should sell. A simple rule - for every sales post, share two or three posts that help, entertain or build trust.'
+    - >-
+      Show the calendar template: date, platform, format (photo, carousel, reel, status, broadcast), pillar, idea, hook (first line), call to action, owner,
+      status (idea, drafted, designed, scheduled, posted).
+    - >-
+      Plan around Kenyan dates: month-end paydays, school opening and closing, Madaraka, Mashujaa and Jamhuri holidays, the festive season, exam periods,
+      local events. Say: a realistic calendar (three to four posts a week) that is followed beats an ambitious one that is abandoned.
+    - Explain batching - create several posts in one sitting and schedule them (Meta Business Suite can schedule Facebook and Instagram posts).
+  - minutes: 5
+    title: Stretch break
+    kind: break
+    summary: A five-minute stretch and movement break (seated option available).
+    steps:
+    - Invite everyone to stand, stretch, walk or drink water for five minutes; offer a seated option for anyone who prefers or needs it.
+    - Restart on time with a one-line reminder of where the session is and what comes next.
+  - minutes: 15
+    title: Build your two-week content calendar
+    kind: exercise
+    summary: Fill a two-week calendar for your campaign with at least six planned posts.
+    steps:
+    - >-
+      Learners write their three or four pillars, then fill a two-week calendar with at least six posts and two WhatsApp status or broadcast items, across
+      their chosen platforms.
+    - Each entry needs a pillar, format, idea, hook and call to action.
+    - Check that the calendar includes at least one post for each pillar and no more than one third sales posts.
+  - minutes: 10
+    title: Visual communication principles
+    kind: lesson
+    summary: Learn the design principles that make marketing graphics clear on a phone screen.
+    steps:
+    - >-
+      Teach five principles with good and bad examples: (1) hierarchy - one main message biggest, then detail, then call to action; (2) contrast - dark
+      text on light backgrounds or the reverse, never yellow on white; (3) alignment - line elements up, do not scatter; (4) white space - leave breathing
+      room, fewer words; (5) readability - test the design at phone size, use at most two fonts.
+    - 'Show the 3-second test: if someone scrolling cannot understand the post in 3 seconds, simplify it.'
+    - 'Mention sizes: square 1080 x 1080 for feed posts, vertical 1080 x 1920 for stories, reels and status, 1080 x 1350 portrait for Instagram feed.'
+    - Prefer real product photos over stock photos where possible - customers trust real images.
+  - minutes: 15
+    title: Demonstration and practice - designing marketing graphics
+    kind: demonstration
+    summary: Watch a marketing graphic designed in Canva, then design two of your own.
+    steps:
+    - >-
+      Live in Canva: create a 1080 x 1080 design, upload a real product photo, apply brand colours and fonts, write a headline (for example 'Birthday cakes
+      delivered on time in Ruiru'), add price or offer, and a call to action ('Order on WhatsApp 07XX XXX XXX'). Show how to remove clutter.
+    - Show how to resize the design for status or stories and how to download it as PNG.
+    - >-
+      Learners design two graphics from their calendar (one feed post and one status or story) using their brand mini-kit. Remind them to use their own
+      photos, the business's photos with permission, or images with a licence that allows use.
+  - minutes: 10
+    title: Peer review and knowledge check
+    kind: assessment
+    summary: Test each other's graphics with the 3-second test and answer the knowledge check.
+    steps:
+    - In pairs, learners show their graphic for 3 seconds; the partner says what the message is. If they get it wrong, the designer notes one change.
+    - Run two or three quick assessment questions aloud.
+  - minutes: 5
+    title: Wrap-up and homework
+    kind: conclusion
+    summary: Summarise and confirm the homework.
+    steps:
+    - Remind learners that brand kit, calendar and graphics all go into the campaign folder.
+    - Set the homework.
+  demonstrations:
+  - title: Brand mini-kit
+    steps:
+    - Show a complete mini-kit for Shiru's Bakes and explain each choice.
+  - title: Designing a marketing graphic in Canva
+    steps:
+    - Create, apply brand kit, write hierarchy, add CTA, resize for status, download.
+  guided_exercises:
+  - title: Content pillars
+    instructions: Write three or four content pillars for your business, each linked to a persona need.
+  individual_activities:
+  - title: Brand mini-kit
+    instructions: Complete the brand promise, personality, voice examples, colours, fonts and photo style for your campaign business.
+  - title: Two-week content calendar
+    instructions: Plan at least six posts and two WhatsApp status or broadcast items with pillar, format, idea, hook and call to action.
+  - title: Two marketing graphics
+    instructions: Design one feed post and one status or story graphic that follow your brand kit and pass the 3-second test.
+  group_activities:
+  - title: 3-second test
+    instructions: Show your graphic to a partner for three seconds; they say what it means; improve it if they miss the message.
+  examples:
+  - Shiru's Bakes brand mini-kit and content pillars.
+  - A Mombasa juice vendor planning posts around hot afternoons and Friday prayers footfall.
+  - A school uniform seller in Nyeri planning a content calendar around school opening dates.
+  - A Nakuru youth football club using consistent colours and logo on all match-day posters.
+  tools:
+  - Canva (free) or a similar free design tool; paper and coloured pens as a backup
+  - Brand mini-kit template and content calendar template (Google Sheets or paper)
+  - Meta Business Suite (for showing scheduling)
+  - Real product photos from the business (with permission)
+  assessment:
+  - question: What is the difference between a brand and a logo?
+    guide: The brand is what people feel and expect; the logo is a visual symbol of it.
+  - question: Write a brand promise for your business in one sentence.
+    guide: Specific, believable, customer-focused (for example 'Fresh, on time, exactly as shown').
+  - question: What are content pillars and why use them?
+    guide: Repeating themes linked to audience needs; they make planning easier and keep content consistent.
+  - question: Name three visual communication principles.
+    guide: Hierarchy, contrast, alignment, white space, readability.
+  - question: Your calendar has 10 posts and 8 are sales posts. What is the problem?
+    guide: Too much selling; audiences disengage. Add posts that help, entertain or build trust.
+  expected_outputs:
+  - Brand mini-kit (promise, personality, voice, colours, fonts, photo style)
+  - Content pillars and a two-week content calendar
+  - Two branded marketing graphics (feed post and status or story)
+  facilitator:
+    preparation:
+    - Prepare the Shiru's Bakes mini-kit, a good and bad graphic for each principle, and the calendar template.
+    - Test Canva login and screen sharing; prepare a downloaded template in case of connectivity issues.
+    - Prepare a list of Kenyan calendar dates for the next two months that learners can plan around.
+    delivery:
+    - Learners often spend too long choosing colours; give a time limit and allow them to refine later.
+    - Push for real photos of the business; offer tips for taking them with a phone (natural light near a window, clean background).
+    inclusion_and_safeguarding:
+    - Remind learners to get consent before using photos of customers or staff, and never to use images of children without their parent's or guardian's
+      consent.
+    - Learners must not copy other brands' logos or designs.
+    - >-
+      Consent and privacy: before using an identifiable person (face, voice or name), a photograph of someone, or a real business's name, logo, prices,
+      customer details or results, the learner gets permission from that person or owner - in writing (a WhatsApp message is enough) for anything shown
+      outside the class. Never children. Learners who cannot or do not wish to publish publicly use the private or simulated option, which is assessed with
+      the same rubric and never marked down.
+    after_session:
+    - Give feedback on each calendar in DIRA LEARN (balance of pillars, realistic frequency).
+    - Record attendance.
+  homework:
+  - Finish both graphics and design one more for your calendar.
+  - >-
+    Take at least five real photos of the business or product (with permission) for the next session's posts. Ask before including any person's face, and
+    do not photograph children. On the simulated option, use your own product photos or free-licence images.
+  - Show your brand kit and one graphic to the business owner and note their feedback.
+  cross_track_notes:
+  - >-
+    Content Creation teaches graphic design and visual storytelling in depth (layout, typography, carousels, video). Digital Marketing uses design only
+    as far as needed to communicate an offer and a call to action that serve the campaign goal.
+  - AI Tools covers AI-generated images; learners in Digital Marketing may use AI help only with disclosure and must prefer real product photos.
+- session_no: 6
+  week_no: 3
+  duration: 120
+  title: Copywriting, customer engagement and search engine optimisation
+  description: >-
+    Write persuasive, honest marketing copy, turn engagement into customers on WhatsApp and social media, and use search engine optimisation basics including
+    Google Business Profile.
+  purpose: >-
+    Learners write captions and messages that make people act, handle enquiries so they become sales, and make the business easier to find on Google Search
+    and Maps. They leave with finished captions, a customer conversation script and a local search plan.
+  objectives:
+  - Write captions using the AIDA and Problem-Agitate-Solution structures, with a clear call to action
+  - Turn product features into customer benefits
+  - Write honest marketing copy that avoids false or misleading claims
+  - Use engagement and conversion techniques (fast replies, social proof, clear offers, easy ordering and payment)
+  - Handle an enquiry from first message to confirmed order in a role-play
+  - Explain how search engines rank results and the basics of keywords and local SEO
+  - Draft a Google Business Profile and a keyword list for their business
+  topics:
+  - title: Copywriting and persuasive messaging
+    subtopics:
+    - Hooks and first lines
+    - Features versus benefits
+    - AIDA (Attention, Interest, Desire, Action)
+    - Problem-Agitate-Solution
+    - Calls to action
+    - Tone and language (English, Kiswahili, Sheng)
+    - Honesty and avoiding misleading claims
+  - title: Customer engagement and conversion
+    subtopics:
+    - Reply speed and tone
+    - From comment to DM to order
+    - Social proof (reviews, testimonials with consent, numbers)
+    - Offers and urgency without pressure
+    - Reducing friction (prices, delivery, M-Pesa till or paybill)
+    - Follow-up and repeat customers
+  - title: Search engine optimisation fundamentals
+    subtopics:
+    - How search works (crawling, indexing, ranking)
+    - Keywords and search intent
+    - Local SEO and 'near me' searches
+    - Google Business Profile (category, hours, photos, reviews, posts)
+    - Simple on-page SEO for a website or blog
+    - Consistent name, address and phone across the web
+  segments:
+  - minutes: 10
+    title: Recap and caption hunt
+    kind: introduction
+    summary: Share a caption that made you want to buy something.
+    steps:
+    - Ask three learners to read a caption from a Kenyan business that worked on them and say why.
+    - Note common patterns (a question, a problem they recognise, a clear price, urgency).
+  - minutes: 20
+    title: Copywriting and persuasive messaging
+    kind: lesson
+    summary: Learn how to write hooks, benefits, calls to action and honest persuasive captions.
+    steps:
+    - >-
+      Hooks: the first line must stop the scroll. Types - a question ('Late cake again?'), a bold promise ('Birthday cakes delivered on time, every time'),
+      a number ('3 ways to save on your child's party'), a story start ('At 6 am on Saturday...').
+    - >-
+      Features versus benefits. Feature - 'eggless sponge'. Benefit - 'everyone at the party can enjoy it, even guests who don't eat eggs'. Practise turning
+      two features into benefits together.
+    - 'AIDA: Attention (hook), Interest (relevant detail), Desire (benefit, proof), Action (call to action). Write one AIDA caption live for Shiru''s Bakes.'
+    - >-
+      PAS: Problem ('Your office tea break needs snacks but the shop is far'), Agitate ('so people leave work and come back late'), Solution ('Shiru's delivers
+      fresh bread and mandazi to your office every morning - order by 8 pm').
+    - 'Calls to action must be one clear step: ''WhatsApp us on 07XX'', ''Tap the link to order'', ''Save this post for your next party''.'
+    - >-
+      Tone: match the persona. Many Kenyan brands mix English with Kiswahili or Sheng, but it must sound natural to the audience. Honesty: do not claim
+      'best in Kenya' without proof, do not invent reviews, do not hide prices or conditions, and label paid partnerships.
+  - minutes: 15
+    title: Write your campaign captions
+    kind: exercise
+    summary: Write three captions for your calendar posts using AIDA or PAS.
+    steps:
+    - Learners write three captions for posts from their calendar - one AIDA, one PAS and one short caption for a status or story.
+    - Each caption must include a hook, a benefit, proof or detail, and one call to action.
+    - Partners swap captions and underline the hook and CTA. If they cannot find them, the writer rewrites.
+  - minutes: 15
+    title: Customer engagement and conversion
+    kind: lesson
+    summary: Learn how to turn likes, comments and messages into orders and repeat customers.
+    steps:
+    - >-
+      Explain conversion: the moment someone takes the action you want (a message, an order, a booking, a sign-up). Engagement without conversion does not
+      pay the rent.
+    - 'Speed: reply to enquiries quickly during business hours; many customers buy from whoever answers first. Use quick replies from session 4.'
+    - >-
+      The enquiry-to-order flow: greet, answer the question with the price, ask one question to understand the need, recommend, confirm details (size, date,
+      location), give payment details (M-Pesa till or paybill, never a personal number for a registered business), confirm the order in writing, thank and
+      follow up after delivery.
+    - 'Social proof: share reviews and customer photos with their consent, numbers (''120 cakes delivered this month''), before-and-after.'
+    - 'Offers and urgency: a genuine limited offer can help (''10% off orders before Friday''), but fake countdowns and pressure damage trust.'
+    - 'Reduce friction: prices in posts or a catalogue (customers who have to ask ''how much?'' often leave), delivery areas and costs, clear payment steps.'
+    - 'Retention: a thank-you message, asking for a review, and a reason to come back (a loyalty stamp on WhatsApp, a birthday message with permission).'
+  - minutes: 5
+    title: Stretch break
+    kind: break
+    summary: A five-minute stretch and movement break (seated option available).
+    steps:
+    - Invite everyone to stand, stretch, walk or drink water for five minutes; offer a seated option for anyone who prefers or needs it.
+    - Restart on time with a one-line reminder of where the session is and what comes next.
+  - minutes: 10
+    title: Role-play - from enquiry to order
+    kind: exercise
+    summary: Practise handling a customer message from the first question to a confirmed order.
+    steps:
+    - >-
+      In pairs, one learner is the customer (using a scenario card - for example 'asks the price, says it is expensive, wants delivery tomorrow in Juja'),
+      the other replies as the business using the enquiry-to-order flow. Swap after 4 minutes.
+    - Debrief - which reply moved the conversation forward? How did you handle 'it is expensive' (explain value, offer a smaller option, never insult the
+      customer)?
+  - minutes: 15
+    title: Search engine optimisation fundamentals and Google Business Profile
+    kind: lesson
+    summary: Learn how search works and how a small business gets found on Google Search and Maps.
+    steps:
+    - >-
+      Explain search in three steps: search engines crawl the web, index (store) pages, then rank results by relevance to the search, quality and trust,
+      and for local searches, distance and prominence.
+    - >-
+      Keywords and intent: the words people actually type. 'cake shop Ruiru', 'birthday cake delivery Juja', 'eggless cake near me'. Informational intent
+      (how to) versus commercial intent (where to buy). Use Google autocomplete and 'People also ask' to find real phrases.
+    - >-
+      Local SEO is the most useful part for small Kenyan businesses: a complete Google Business Profile shows on Google Maps and local results. Demonstrate
+      the parts - business name (real name, no keyword stuffing), category, service area or address, hours, phone, website or social link, photos, products
+      or services, posts, and reviews and replies.
+    - 'Reviews: ask happy customers for Google reviews with a short link; never buy fake reviews or offer payment for positive ones.'
+    - >-
+      On-page basics if the business has a website or blog: a clear page title and description with the main keyword, a heading that says what and where,
+      fast pages, mobile-friendly, contact details on every page.
+    - 'Consistency: the same business name, phone and location on Google, Facebook, Instagram and directories helps search engines and customers trust the
+      business.'
+  - minutes: 15
+    title: Keyword list and Google Business Profile draft
+    kind: exercise
+    summary: Find keywords for your business and draft its Google Business Profile.
+    steps:
+    - Learners use Google autocomplete to list ten search phrases real customers might use, marking the five most relevant.
+    - >-
+      Learners draft the Google Business Profile using the template - name, category, area, hours, a 250-word description using keywords naturally, five
+      product or service entries and three photo ideas.
+    - >-
+      If the owner agrees and the business does not have a profile, the owner can create or verify it later; learners must not create profiles for businesses
+      without the owner's permission.
+  - minutes: 10
+    title: Knowledge check
+    kind: assessment
+    summary: Answer questions on copywriting, conversion and search.
+    steps:
+    - Run the assessment questions; discuss two answers in depth.
+  - minutes: 5
+    title: Wrap-up and homework
+    kind: conclusion
+    summary: Summarise and confirm the homework.
+    steps:
+    - Remind learners that session 7 is the campaign build and they must bring all parts (brief, persona, platform plan, brand kit, calendar, graphics,
+      captions).
+    - Set the homework.
+  demonstrations:
+  - title: Writing an AIDA caption live
+    steps:
+    - Start from a feature list, find the benefit, write hook, interest, desire and CTA, then cut unnecessary words.
+  - title: Google Business Profile walkthrough
+    steps:
+    - Show each field of a fictional or consenting business profile and how reviews and replies appear on Maps.
+  guided_exercises:
+  - title: Features to benefits
+    instructions: Turn three product features into customer benefits for your persona.
+  - title: Keyword hunt
+    instructions: Use Google autocomplete to find ten real search phrases and pick the five most relevant.
+  individual_activities:
+  - title: Three campaign captions
+    instructions: Write one AIDA, one PAS and one short status caption for your calendar, each with a hook and one CTA.
+  - title: Google Business Profile draft
+    instructions: Complete the profile template with a keyword-rich but natural description.
+  group_activities:
+  - title: Enquiry-to-order role-play
+    instructions: In pairs, handle a scenario-card customer message from first question to confirmed order, then swap.
+  examples:
+  - Shiru's Bakes captions in AIDA and PAS.
+  - A Thika boda boda delivery business that ranks for 'parcel delivery Thika' after completing its Google Business Profile and collecting reviews.
+  - A kinyozi in Kahawa West replying to every Google review with the customer's first name and a thank-you.
+  - An Eldoret shoe seller who lost sales by replying 'inbox' to price questions, then gained orders by posting prices in the catalogue.
+  tools:
+  - Caption template, scenario cards, Google Business Profile template
+  - Google Search (autocomplete, People also ask) and Google Maps
+  - WhatsApp Business (from session 4)
+  assessment:
+  - question: What does AIDA stand for?
+    guide: Attention, Interest, Desire, Action.
+  - question: Turn the feature 'delivery within 2 hours' into a benefit.
+    guide: For example 'last-minute party? You still get a fresh cake on time'.
+  - question: A customer asks 'how much?' in a comment. What should you do?
+    guide: Reply quickly with the price or a clear range and the next step; ideally prices are already in the post or catalogue.
+  - question: Name three parts of a Google Business Profile that help a business get found.
+    guide: Correct category, complete details (area, hours, phone), photos, products or services, reviews and replies, posts.
+  - question: Why should you never buy fake reviews?
+    guide: It misleads customers, breaks platform rules and can lead to removal; trust is lost if discovered.
+  expected_outputs:
+  - Three finished captions with hooks and calls to action
+  - Enquiry-to-order conversation script (from the role-play)
+  - Keyword list (ten phrases, five priority)
+  - Google Business Profile draft
+  facilitator:
+    preparation:
+    - Prepare scenario cards for the role-play and a fictional Google Business Profile walkthrough.
+    - Collect examples of good and weak captions from public Kenyan business pages.
+    delivery:
+    - Keep copywriting practical; learners should write more than they listen.
+    - Stress honesty and consent - persuasive does not mean misleading.
+    inclusion_and_safeguarding:
+    - Learners must not create or edit profiles for businesses without the owner's permission.
+    - Testimonials and customer photos need the customer's consent.
+    after_session:
+    - Check every learner has the parts needed for the session 7 build; message those missing pieces.
+    - Record attendance.
+  homework:
+  - >-
+    Publish one of your posts with its caption on the business's account (with the owner's permission) or your own account, and note the reach and engagement
+    after 48 hours. Private option: share it with a small group of people who agreed to take part, or test it with three peers, and record their reactions
+    instead of public reach.
+  - Bring all campaign parts to session 7.
+  cross_track_notes:
+  - >-
+    Content Creation teaches captions as creative writing and storytelling for audiences. Digital Marketing teaches copy as persuasion with a measurable
+    action (an enquiry, an order, a booking).
+  - Entrepreneurship & Business covers sales and negotiation face to face and in business deals; here selling happens in online conversations.
+- session_no: 7
+  week_no: 4
+  duration: 120
+  title: Online advertising, campaign budgeting, analytics and campaign build
+  description: Understand online advertising, plan a small KES budget, choose measures of success, and build the full campaign for the final project.
+  purpose: >-
+    Learners understand how paid online advertising works and when a small business should use it, plan a realistic KES campaign budget, choose key performance
+    indicators and how to track them, and assemble every part of their campaign into one presentable plan that they test with peers.
+  objectives:
+  - Explain the difference between boosting a post and creating an ad in Meta Ads Manager, and give an overview of Google Ads
+  - Choose an ad objective, audience, creative and budget for a small campaign
+  - Build a campaign budget in KES covering content, data, ads and other costs, with a cost-per-result estimate
+  - Explain reach, impressions, engagement rate, clicks, messages, conversions, cost per result and return on ad spend
+  - Read basic insights on Facebook, Instagram or WhatsApp Business and track offline results with simple codes
+  - Assemble a complete campaign plan with a SMART objective, KPIs and a timeline
+  - Improve the campaign based on peer testing
+  topics:
+  - title: Introduction to online advertising
+    subtopics:
+    - Organic versus paid reach
+    - Boosted posts versus Ads Manager
+    - Objectives (awareness, traffic, engagement, messages, sales)
+    - Audience targeting (location, age, interests, custom audiences)
+    - Ad creative and copy
+    - Ad policies and honest advertising
+    - Overview of Google Search ads
+    - Micro-influencers and paid partnerships (disclosure)
+  - title: Campaign planning and budgeting
+    subtopics:
+    - SMART campaign objectives
+    - Campaign timeline
+    - Budget lines in KES (content, data, ads, printing, delivery, incentives)
+    - Daily versus lifetime budget
+    - Estimating cost per result
+    - Starting small and testing
+  - title: Marketing analytics and performance measurement
+    subtopics:
+    - Key performance indicators linked to objectives
+    - Reach, impressions, engagement rate
+    - Clicks and messages
+    - Conversions and cost per conversion
+    - Return on ad spend
+    - Platform insights
+    - Tracking offline sales (codes, asking 'how did you hear about us?')
+    - Simple tracking sheet
+  - title: Practical campaign development
+    subtopics:
+    - Putting the parts together
+    - Checking consistency
+    - Peer testing
+    - Revising
+  segments:
+  - minutes: 10
+    title: Recap and results from your first post
+    kind: introduction
+    summary: Share the reach and engagement from the post you published.
+    steps:
+    - Learners share the reach and engagement of the post they published. Note the range and ask what might explain the differences (time, hook, image,
+      audience).
+    - Say that today is about measuring and improving, not just posting.
+  - minutes: 20
+    title: Introduction to online advertising
+    kind: lesson
+    summary: Learn how paid ads work on social media and search, and when a small business should use them.
+    steps:
+    - >-
+      Organic versus paid: organic posts reach a part of your followers; paid ads reach people chosen by targeting. Paid works best when the offer, content
+      and WhatsApp follow-up are already good - ads amplify, they do not fix a weak offer.
+    - >-
+      Boost versus Ads Manager: boosting a post is quick (choose audience, budget, duration); Meta Ads Manager gives more control (objective, placements,
+      multiple ads, testing). Show the boost screen and the Ads Manager campaign structure (campaign - objective; ad set - audience, budget, schedule; ad
+      - creative and copy) using screenshots.
+    - >-
+      Objectives: choose the one that matches the campaign goal - for a WhatsApp business, a 'messages' or 'engagement with WhatsApp' style objective is
+      often better than reach. Names change on the platforms, so check the current options in Ads Manager.
+    - >-
+      Targeting: location radius (for example 10 km around Ruiru), age, interests, and custom audiences (people who engaged with your page). Too narrow
+      costs more; too broad wastes money.
+    - >-
+      Budget: platforms allow small daily budgets; check the current minimum in Ads Manager. Start small (for example a few hundred shillings a day for
+      a few days), test two versions, keep the better one.
+    - Google Search ads appear for searches with commercial intent ('cake delivery Juja'); you pay per click. Explain briefly; most learners will start
+      with Meta.
+    - >-
+      Policies and ethics: ads are reviewed and can be rejected; no misleading claims, before-and-after body images, or restricted products. Paid influencer
+      posts must be disclosed (for example 'ad' or 'paid partnership').
+    - >-
+      Payment: ad accounts are paid by card or other methods the platform accepts; the business owner must authorise any spending. Learners must never spend
+      the owner's money without written agreement.
+  - minutes: 15
+    title: Campaign planning and budgeting in KES
+    kind: lesson
+    summary: Plan a campaign timeline and a realistic budget with an estimated cost per result.
+    steps:
+    - 'SMART campaign objective: ''Get 20 new cake orders through WhatsApp from Ruiru and Juja between 1 and 14 December'' rather than ''increase sales''.'
+    - >-
+      Show the budget sheet (Google Sheets or paper): lines for content (printing, props, sample products for photos), internet data, ads, delivery promotion,
+      incentives (discount cost), and contingency. Use the Shiru's Bakes example totalling about KES 3,000, including KES 1,500 for ads.
+    - >-
+      Cost per result: if KES 1,500 of ads brings 30 WhatsApp conversations and 10 orders, cost per conversation = KES 50, cost per order = KES 150. Compare
+      with the profit per order (for example KES 600). If the profit is higher than the cost per order, the ads pay for themselves.
+    - >-
+      Zero-budget campaigns are valid - use organic posts, WhatsApp status, broadcast lists, community groups and referral offers. Learners with no ad budget
+      plan time instead of money.
+  - minutes: 15
+    title: Marketing analytics and measuring results
+    kind: lesson
+    summary: Choose KPIs for your objective and learn how to read and track the numbers.
+    steps:
+    - >-
+      Teach the measures: reach (unique people who saw it), impressions (times shown), engagement rate (likes, comments, shares, saves divided by reach),
+      clicks, messages started, conversions (orders, bookings), cost per result, return on ad spend (revenue from ads divided by ad cost).
+    - >-
+      Link KPIs to objectives: an awareness campaign tracks reach and video views; a sales campaign tracks messages, orders and cost per order. Vanity metrics
+      (likes alone) can mislead.
+    - >-
+      Show where to find numbers: Facebook and Instagram professional dashboards and insights, Meta Business Suite, WhatsApp Business (message statistics
+      where available), TikTok analytics for business or creator accounts.
+    - >-
+      Track offline and WhatsApp sales: ask every customer 'how did you hear about us?', use a campaign code ('mention CAKE10 for 10% off'), and record
+      orders in a simple tracking sheet (date, customer first name or code, source, amount, campaign code).
+    - >-
+      Show the tracking sheet and how to calculate weekly totals. Explain that learning from results ('reels brought more messages than photos, so do more
+      reels') is the real point.
+  - minutes: 5
+    title: Stretch break
+    kind: break
+    summary: A five-minute stretch and movement break (seated option available).
+    steps:
+    - Invite everyone to stand, stretch, walk or drink water for five minutes; offer a seated option for anyone who prefers or needs it.
+    - Restart on time with a one-line reminder of where the session is and what comes next.
+  - minutes: 30
+    title: Campaign build
+    kind: exercise
+    summary: Assemble your complete campaign plan using the campaign template.
+    steps:
+    - >-
+      Learners open the campaign template and fill every section: 1 brief; 2 SMART objective; 3 persona; 4 channels and platform plan; 5 brand mini-kit;
+      6 key message and offer; 7 two-week content calendar; 8 three finished posts with captions and one WhatsApp broadcast or status message; 9 optional
+      ad plan (objective, audience, creative, budget, duration); 10 budget in KES; 11 KPIs, targets and tracking method; 12 timeline and who does what.
+    - >-
+      The facilitator circulates and checks each campaign for consistency - does the persona match the platforms, the message match the brand, the KPI match
+      the objective?
+    - Learners who finish early create one more asset or a short reel for their campaign.
+  - minutes: 15
+    title: Peer testing and revision
+    kind: group
+    summary: Test your campaign with peers using the checklist and improve it.
+    steps:
+    - >-
+      In groups of three, each learner presents the campaign in three minutes. Peers use the campaign checklist (clear objective, specific persona, fitting
+      channels, consistent brand, strong hooks, clear CTA, realistic budget, measurable KPIs, consent and honesty) and give two strengths and two improvements.
+    - Learners make at least one improvement immediately and note the others to finish before session 8.
+  - minutes: 10
+    title: Showcase preparation and homework
+    kind: conclusion
+    summary: Learn how session 8 works and what to prepare.
+    steps:
+    - >-
+      Explain the showcase format: three minutes to present (introduce yourself with your self-pitch, the brief, the campaign, any results so far and what
+      you would do next), two minutes of questions. Share the showcase rubric.
+    - >-
+      Homework: finish the campaign, run at least one part of it in real life (publish posts or a status campaign with permission) and record the results,
+      prepare a five-slide presentation or a one-page visual.
+  demonstrations:
+  - title: Ads Manager structure and boosting a post
+    steps:
+    - Using screenshots, walk through boost options and the campaign, ad set and ad levels. Do not spend money live.
+  - title: Budget and cost-per-result calculation
+    steps:
+    - Fill the budget sheet for Shiru's Bakes and calculate cost per message and per order, and compare with profit per order.
+  - title: Reading insights
+    steps:
+    - Show a page's insights (prepared screenshots) and explain reach, engagement and messages for one post.
+  guided_exercises:
+  - title: Cost-per-result calculation
+    instructions: Given ad spend, conversations and orders, calculate cost per conversation and cost per order and decide if the ad was worth it.
+  - title: Match KPIs to objectives
+    instructions: For three objectives (awareness, messages, sales), choose the right two KPIs each.
+  individual_activities:
+  - title: Campaign budget
+    instructions: Build your campaign budget in KES with at least five lines and an estimated cost per result (or a zero-budget time plan).
+  - title: Complete campaign plan
+    instructions: Fill all twelve sections of the campaign template.
+  group_activities:
+  - title: Campaign peer test
+    instructions: Present your campaign in three minutes; peers use the checklist to give two strengths and two improvements.
+  examples:
+  - Shiru's Bakes KES 3,000 campaign with KES 1,500 ads, aiming for 20 orders in two weeks.
+  - A Kisumu fish seller using the code 'SAMAKI5' on WhatsApp status to see which customers came from the campaign.
+  - A Nairobi youth tech hub boosting an event post to people aged 18 to 30 within 15 km.
+  - A community clean-up group in Kitale running a zero-budget campaign through church and school WhatsApp groups (with admins' permission).
+  tools:
+  - Campaign template, budget sheet and tracking sheet (Google Sheets or paper)
+  - Screenshots of Meta boost and Ads Manager, and page insights
+  - Calculator
+  - Campaign checklist and showcase rubric
+  assessment:
+  - question: What is the difference between reach and impressions?
+    guide: Reach counts unique people; impressions count every time it was shown.
+  - question: You spent KES 1,000 on ads, got 25 messages and 5 orders. What is the cost per order?
+    guide: KES 200 per order (1,000 / 5). Cost per message is KES 40.
+  - question: Which KPI fits the objective 'get 20 WhatsApp orders'?
+    guide: Orders (conversions) and cost per order; messages started as a leading indicator.
+  - question: Why should a business fix its offer and WhatsApp replies before paying for ads?
+    guide: Ads only amplify; if the offer or follow-up is weak, more people see a weak experience and money is wasted.
+  - question: How can you measure sales that happen offline or on WhatsApp?
+    guide: Ask how they heard, campaign codes, tracking sheet, unique offers per channel.
+  expected_outputs:
+  - Complete campaign plan (all twelve sections)
+  - Campaign budget in KES with cost-per-result estimate (or zero-budget time plan)
+  - KPI list with targets and a tracking sheet
+  - Peer-test feedback and a revision list
+  facilitator:
+    preparation:
+    - Prepare Ads Manager and boost screenshots (platform screens change; check them shortly before the session).
+    - Prepare the campaign template, budget sheet, tracking sheet, checklist and showcase rubric.
+    - >-
+      Set the session 8 room plan from the track group size (up to 12 - one room; 13 to 24 - two rooms; 25 to 36 - three rooms, or two live rooms plus a
+      recorded-questions room) and line up co-facilitators and peer panels.
+    delivery:
+    - Do not spend money or ask learners to spend money in class. Advertising is optional; zero-budget campaigns get the same marks if well planned.
+    - Spend most of your time circulating during the build; this is where learning is consolidated.
+    inclusion_and_safeguarding:
+    - Learners must have the business owner's written agreement (a WhatsApp message is enough) before any spending or posting on the business's behalf.
+    - Campaigns must not target minors or use content involving children without parental consent.
+    - >-
+      Consent and privacy: before using an identifiable person (face, voice or name), a photograph of someone, or a real business's name, logo, prices,
+      customer details or results, the learner gets permission from that person or owner - in writing (a WhatsApp message is enough) for anything shown
+      outside the class. Never children. Learners who cannot or do not wish to publish publicly use the private or simulated option, which is assessed with
+      the same rubric and never marked down.
+    after_session:
+    - Review campaigns submitted to DIRA LEARN and flag any that are incomplete before session 8.
+    - Record attendance.
+  homework:
+  - >-
+    Finish the campaign and run at least one part of it for real (posts, status or broadcast with consent) and record the results in the tracking sheet.
+    Private option: run it as a private test (peers, or a WhatsApp group that agreed) or present it as a simulation with clearly labelled estimates.
+  - Prepare a five-slide presentation or one-page visual for the showcase.
+  - Practise your three-minute presentation twice, including your self-pitch introduction.
+  - >-
+    If you are presenting by recording (a large group, or you cannot present live), record your 3-minute campaign presentation - video, or a voice note
+    with slides for low data - and upload it to DIRA LEARN by the day before session 8.
+  cross_track_notes:
+  - >-
+    Entrepreneurship & Business covers business budgeting and cash flow for the whole business; Digital Marketing budgets only the campaign and calculates
+    its cost per result.
+  - AI Tools may be used to draft campaign copy or analyse results, with disclosure and human checking.
+- session_no: 8
+  week_no: 4
+  duration: 120
+  title: Digital marketing campaign showcase
+  description: Present your digital marketing campaign, answer questions, give and receive feedback, pitch yourself professionally and plan your next 30
+    days.
+  purpose: >-
+    Learners demonstrate their practical digital marketing capability by presenting the campaign they built, explaining their choices and results, and answering
+    questions. They learn to present their work as a portfolio piece to employers and clients, practise professional behaviour in a showcase setting and
+    leave with a 30-day action plan.
+  objectives:
+  - Present a basic digital marketing campaign clearly in three minutes, explaining objective, audience, channels, content, budget and measures
+  - Report real results or test findings honestly and say what they would improve
+  - Answer questions about their choices with evidence
+  - Give and receive feedback professionally using the showcase rubric
+  - Pitch themselves and their campaign as a portfolio piece to an employer or client
+  - Write a 30-day action plan for continuing to market the business or to find marketing work
+  topics:
+  - title: Practical digital marketing campaign presentation
+    subtopics:
+    - Structure of a campaign presentation
+    - Showing results honestly
+    - Explaining choices with evidence
+    - Answering questions
+  - title: Pitching yourself and your work
+    subtopics:
+    - Self-pitch plus project
+    - Turning the campaign into a portfolio case study
+    - Talking about your work in interviews and with clients
+  - title: Professional behaviour and workplace readiness
+    subtopics:
+    - Showcase etiquette (time, respect, listening)
+    - Receiving critical feedback
+    - Following up after an event
+    - Pathways - internships, freelance and online work, running your own business
+  - title: Next steps
+    subtopics:
+    - 30-day action plan
+    - Ongoing learning
+    - Staying connected with DIRA alumni
+  segments:
+  - minutes: 10
+    title: Showcase set-up and expectations
+    kind: introduction
+    summary: Learn the showcase order, rubric and etiquette.
+    steps:
+    - Welcome learners and any guests (business owners, DIRA staff, mentors, invited employers). Thank business owners who allowed learners to work with
+      them.
+    - >-
+      Explain the format: three minutes to present, two minutes of questions, then the next presenter. Share the rubric: clarity of objective and audience
+      (20%), quality and consistency of content (25%), channel and budget choices (20%), measurement and results (20%), presentation and answers (15%).
+    - 'Etiquette: phones on silent, cameras on if online, respectful questions, applause after each presenter.'
+    - Assign each learner to give written feedback on two specific presenters (so every presenter gets at least two pieces of peer feedback).
+  - minutes: 30
+    title: Campaign presentations and questions - block 1
+    kind: assessment
+    summary: The first six presenters in each room present and answer questions; give rubric feedback to your two assigned peers.
+    steps:
+    - >-
+      Run the campaigns with the session 8 room plan in the facilitator instructions: the first six presenters in each room go in this block, each with
+      3 minutes plus 2 minutes of questions.
+    - Learners present in the published order. Keep strict time with a visible timer; give a 30-second warning.
+    - >-
+      Each presentation covers: self-pitch introduction; the brief; SMART objective; persona; channels; brand and three posts; budget; KPIs and results
+      or test findings; what they learned and would do next.
+    - >-
+      Ask at least one question per presenter, such as: 'Why did you choose this platform for this persona?', 'What would you change if you had KES 5,000
+      more?', 'What does your cost per result tell you?', 'How did you get consent for these photos?'
+    - Score each presenter on the rubric and note one strength and one improvement.
+  - minutes: 5
+    title: Stretch break
+    kind: break
+    summary: A five-minute stretch and movement break (seated option available).
+    steps:
+    - Invite everyone to stand, stretch, walk or drink water for five minutes; offer a seated option for anyone who prefers or needs it.
+    - Restart on time with a one-line reminder of where the session is and what comes next.
+  - minutes: 30
+    title: Campaign presentations and questions - block 2
+    kind: assessment
+    summary: The next six presenters in each room present; recorded presenters answer their live questions.
+    steps:
+    - The remaining presenters in each live room (7 to 12) go now, with the same timer, rubric and question approach as block 1.
+    - >-
+      In a recorded-questions room, do not replay the recordings (the panel scored them before the session); give each recorded presenter 2 minutes of live
+      questions about their campaign.
+    - Each room's panel hands its completed campaign rubric sheets to the room facilitator before the feedback round.
+  - minutes: 10
+    title: Feedback round
+    kind: group
+    summary: Share feedback with peers and reflect on what you heard.
+    steps:
+    - Learners give their written feedback to the two presenters they were assigned (in DIRA LEARN or on cards).
+    - >-
+      Facilitator summarises patterns: what strong campaigns had in common (specific persona, consistent brand, clear CTA, honest measurement) and the most
+      common improvements.
+    - Model receiving feedback - thank, ask for an example, decide what to act on.
+  - minutes: 15
+    title: Pitching yourself and workplace readiness
+    kind: lesson
+    summary: Turn your campaign into a portfolio piece and practise pitching yourself to an employer or client.
+    steps:
+    - >-
+      Show how to turn the campaign into a one-page case study: the challenge, what you did, results, what you learned, and visuals. Add it to LinkedIn
+      (Featured section), a Google Drive portfolio folder or a simple online portfolio.
+    - >-
+      Pitch formula for interviews and clients: who you are, what you can do, proof (this campaign and its numbers), what you are looking for. Example:
+      'I am Brian, a digital marketer from Thika. I recently ran a two-week WhatsApp and Facebook campaign for a bakery that brought 14 new orders for KES
+      1,200 in ads. I am looking for an internship or small businesses that need help with social media.'
+    - >-
+      Pathways: internships and entry-level jobs (marketing assistant, social media assistant, customer service), freelance and online work (Kenya's Ajira
+      Digital programme provides training and information on online work), and supporting or running a business. Warn again about job scams that ask for
+      fees.
+    - >-
+      Professional follow-up: within two days, thank the business owner, share the results summary and ask for a short testimonial or reference; connect
+      with guests on LinkedIn with a personal note.
+    - Learners practise their pitch once in pairs.
+  - minutes: 15
+    title: 30-day action plan
+    kind: exercise
+    summary: Write a 30-day plan for continuing the campaign or finding marketing work.
+    steps:
+    - >-
+      Learners complete the 30-day action plan: one main goal, four weekly actions (for example week 1 finish the case study, week 2 offer services to three
+      businesses, week 3 publish two portfolio posts, week 4 apply to two internships), one measure of success, one person who will hold them accountable
+      and one risk with a plan.
+    - Learners share their main goal with their accountability partner from core session 1.
+    - Remind learners that the plan is part of their final project submission in DIRA LEARN.
+  - minutes: 5
+    title: Celebration and close
+    kind: conclusion
+    summary: Celebrate the work and learn what happens next.
+    steps:
+    - Celebrate - a short recognition of every learner's campaign (for example one word of praise each).
+    - >-
+      Explain next steps - submitting the final project, how results and certificates work in DIRA LEARN according to the programme's rules, and how to
+      stay connected with DIRA.
+  demonstrations:
+  - title: Model presentation
+    steps:
+    - >-
+      Before the session, prepare a 3-minute example presentation (Shiru's Bakes) and share it as a reference recording or slide set for learners who want
+      an example. Do not use showcase time for it.
+  guided_exercises:
+  - title: Campaign case study
+    instructions: Turn your campaign into a one-page case study with challenge, actions, results, learning and visuals.
+  individual_activities:
+  - title: Campaign presentation
+    instructions: Present your campaign in three minutes and answer questions for two minutes.
+  - title: 30-day action plan
+    instructions: Complete the plan with a goal, four weekly actions, a measure, an accountability partner and one risk.
+  group_activities:
+  - title: Peer feedback
+    instructions: Give rubric-based written feedback (one strength, one improvement) to the two presenters assigned to you.
+  - title: Pitch practice
+    instructions: Practise your self-pitch with your campaign as proof, in pairs.
+  examples:
+  - A learner who presents a two-week campaign for a Ruiru bakery with 14 new orders and a cost per order of about KES 85.
+  - A learner who ran a zero-budget campaign for a Kibera youth recycling group and recruited 25 volunteers through WhatsApp groups.
+  - A learner who uses the campaign as proof in an application for a marketing assistant internship at a Nairobi SME.
+  tools:
+  - Learners' presentations (slides, one-page visual or phone screen sharing)
+  - Showcase rubric and feedback cards (or DIRA LEARN)
+  - Timer
+  - 30-day action plan template and case study template
+  assessment:
+  - question: >-
+      Presentation scored with the showcase rubric (objective and audience, content quality, channel and budget choices, measurement and results, presentation
+      and answers).
+    guide: Use the rubric descriptors. Results do not need to be large; honest measurement and good reasoning score well.
+  - question: What would you change in your campaign if you ran it again, and why?
+    guide: Look for a change based on evidence from results or feedback.
+  - question: Deliver your pitch using the campaign as proof.
+    guide: Who, what, proof with a number, ask.
+  expected_outputs:
+  - Presented digital marketing campaign (final project) with rubric score and feedback
+  - One-page campaign case study for the portfolio
+  - 30-day action plan
+  - Written feedback given to two peers
+  facilitator:
+    preparation:
+    - Publish the presentation order in advance and confirm each learner's materials work (screen sharing or slides).
+    - Invite business owners and guests at least a week before; brief guests on respectful questioning.
+    - >-
+      Confirm the room plan: count the learners in the track group, book the rooms and co-facilitators, brief the peer panels, and publish each room's presenter
+      order and the list of recorded presenters by the end of session 7.
+    delivery:
+    - Be strict on time but warm; nervous presenters can use notes.
+    - Celebrate honest reporting of weak results - the learning is what matters.
+    - >-
+      Session 8 room plan - Room plan (set in session 7 from the track group size; the session is never extended): up to 12 learners - one room; 13 to 24
+      - two rooms in parallel; 25 to 36 - three rooms, or two live rooms plus one recorded-questions room. Each live room takes at most 12 presenters: 6
+      in each 30-minute block, 3 minutes to present and 2 minutes of questions each.
+    - >-
+      Every room has a facilitator or briefed co-facilitator (another trainer, a mentor or DIRA staff member who knows the rubric and the safeguarding expectations)
+      and a peer panel of two learners who present in the other block. All rooms use the same rubric.
+    - >-
+      Recorded option: learners in a recorded-questions room, and anyone who cannot present live (absence, connection problems, anxiety, or the privacy
+      option), submit a 3-minute recording - video, or a voice note with slides for low data - by the day before session 8. The panel scores it in advance
+      with the same rubric; in session 8 each recorded presenter answers 2 minutes of live questions (12 per block). If more learners need the recorded
+      option than one room can take, the panel sends written questions and the learner answers them in DIRA LEARN.
+    - 'Timekeeping: a visible timer with a 30-second warning; stop at 3 minutes. If a block runs late, cut questions to 1 minute - do not extend the session.'
+    inclusion_and_safeguarding:
+    - Learners who cannot present live (connectivity, illness) can submit a recorded presentation according to the programme's rules.
+    - Guests must not contact learners privately without going through the programme; remind them of the safeguarding expectations.
+    after_session:
+    - Enter rubric scores and feedback in DIRA LEARN grading for the final project.
+    - Share the case study template and collect business owners' feedback where offered.
+    - Record attendance.
+  homework:
+  - Submit the final campaign, case study and 30-day plan in DIRA LEARN.
+  - Send a thank-you message and results summary to the business owner within two days.
+  cross_track_notes:
+  - >-
+    Every track ends with a showcase using the same pitch-yourself and workplace-readiness segment, so all learners leave with a portfolio piece and a 30-day
+    plan; the rubric differs by track.

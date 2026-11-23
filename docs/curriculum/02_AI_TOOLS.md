@@ -1,0 +1,1126 @@
+<!-- Generated from curriculum/v13/*.yaml by tools/curriculum/build_v13.py. Edit the YAML, then run the build. -->
+# DIRA LEARN V13.2 curriculum – AI Tools
+
+Revised 19 Nov 2026. Status: **reviewed draft lesson plans (V13.2), authorised for approval by programme management.** Durations are the approved timetable and were not changed.
+
+**Track focus.** Work smarter with AI, responsibly. Learners understand how AI tools work, write strong prompts, use AI for research, writing, images, presentations, productivity and business tasks, learn simple automation, check AI outputs for accuracy, privacy and bias, and finish by building and demonstrating an AI-assisted solution for a real need.
+
+**Final project.** An AI-assisted solution or demonstration for a real brief (a study resource pack, a customer-service prompt kit for a small business, an AI-assisted marketing or information pack for a community group, or a simple automated workflow). It includes the problem and user, the AI tools and prompts used, the human checks, an evaluation against the AI quality checklist, a user test and a live demonstration in session 8 with an AI-use disclosure. Privacy option: the solution can be tested with a classmate or with invented sample data instead of a real user. No personal or business information goes into an AI tool without permission, and no AI image shows an identifiable real person without their consent.
+
+| Session | Week | Minutes | Title |
+|---|---|---|---|
+| 3 | 2 | 120 | Understanding AI, AI tools and responsible use |
+| 4 | 2 | 120 | Prompt engineering, AI for research and learning, and fact-checking |
+| 5 | 3 | 120 | AI-assisted writing, images, creative work and presentations |
+| 6 | 3 | 120 | AI for productivity, business and automation, with privacy, bias and limits |
+| 7 | 4 | 120 | AI project build and testing |
+| 8 | 4 | 120 | AI tools showcase |
+
+## Session 3 (Week 2, 120 minutes): Understanding AI, AI tools and responsible use
+
+*What artificial intelligence is, the main types of AI tools and what they are used for, and the principles of responsible and ethical AI use.*
+
+### 1. Learning purpose
+Learners build an accurate mental model of AI - what it is, how today's generative tools produce answers and why they make mistakes - and survey the main types of AI tools. They try three practical tasks, record what needed human checking, and agree a group code for responsible and ethical AI use that applies for the rest of the track.
+
+### 2. Learning objectives
+By the end of the session learners can:
+- Explain in plain words what AI, machine learning and generative AI are, and how a chat assistant produces an answer
+- Identify AI already used in everyday Kenyan life (spam filters, maps, fraud alerts, translation, customer-care chatbots)
+- Name at least six types of AI tools and a practical use for each
+- Complete three AI-assisted tasks and record what the learner checked or changed
+- Explain five principles of responsible AI use (honesty, privacy, accuracy, fairness, human responsibility)
+- Agree and sign a group AI use code
+
+### 3. Topics and subtopics
+- **Understanding artificial intelligence**
+    - What AI is and is not
+    - Machine learning - learning patterns from examples
+    - Generative AI and large language models in simple terms
+    - Why AI can be confidently wrong (hallucinations)
+    - AI already around us in Kenya
+- **Types and uses of AI tools**
+    - Chat assistants (ChatGPT, Gemini, Copilot, Claude, Meta AI)
+    - Image and design tools
+    - Voice, transcription and translation
+    - Research tools that show sources
+    - AI inside everyday apps (email, documents, WhatsApp, Canva)
+    - Coding and data assistants
+    - Free versus paid versions and data limits
+- **Responsible and ethical AI use**
+    - Honesty and disclosure
+    - Academic and workplace integrity
+    - Privacy and personal data
+    - Accuracy and verification
+    - Fairness and bias
+    - Deepfakes and misuse
+    - Humans stay responsible for decisions
+
+### 4. Time allocation
+| Time | Minutes | Segment | Type |
+|---|---|---|---|
+| 0:00–0:10 | 10 | Welcome to AI Tools and track overview | Introduction and recap |
+| 0:10–0:30 | 20 | What AI is and how it works | Main lesson |
+| 0:30–0:45 | 15 | Types and uses of AI tools | Main lesson |
+| 0:45–1:00 | 15 | Demonstration - three AI tasks and what needed checking | Demonstration |
+| 1:00–1:05 | 5 | Stretch break | Stretch break |
+| 1:05–1:25 | 20 | Your three AI tasks | Practical exercise |
+| 1:25–1:45 | 20 | Responsible AI scenarios and group AI use code | Group activity |
+| 1:45–1:55 | 10 | Knowledge check | Assessment and feedback |
+| 1:55–2:00 | 5 | Wrap-up and homework | Conclusion and assignment |
+| **Total** | **120** | Equals the timetable (120 min) | |
+
+### 5. Step-by-step teaching content
+#### 0:00–0:10 · Welcome to AI Tools and track overview (10 min, introduction and recap)
+*Meet your track group and see the six sessions and final AI project.*
+
+1. Show the track journey: S3 understanding AI and responsible use, S4 prompting, research and fact-checking, S5 writing, images and presentations, S6 productivity, business, automation, privacy and bias, S7 project build and testing, S8 showcase.
+2. Show one example final project (for example a 'Customer reply kit' made with AI for a Kitengela hardware shop - prompts, checked answers, a test with the owner). Say that by session 8 each learner will demonstrate one like it.
+3. Quick poll: which AI tools have you used, and for what? Collect answers in the chat or on the board.
+
+#### 0:10–0:30 · What AI is and how it works (20 min, main lesson)
+*Understand AI, machine learning and generative AI in plain language, and why AI makes mistakes.*
+
+1. Define AI: computer systems that do tasks that usually need human intelligence - recognising images, understanding language, making predictions, generating text or pictures.
+2. Explain machine learning with an example: an M-Pesa-style fraud system learns from millions of past transactions what normal and suspicious patterns look like, then flags unusual ones. Nobody writes a rule for every case; the system learns patterns from examples.
+3. Explain generative AI and large language models: they were trained on enormous amounts of text and learned to predict the next word. When you ask a question, they produce a likely-sounding answer word by word. That is why they write fluently - and why they can invent facts, quotes, references and numbers that sound right but are false. This is called a hallucination.
+4. Everyday AI in Kenya: email spam filters, Google Maps traffic estimates, phone camera face detection, translation apps, bank and mobile money fraud alerts, customer-care chatbots on company websites and WhatsApp, social media feeds choosing what you see.
+5. Three key limits to remember: AI does not know your situation unless you tell it; its information may be out of date; it can repeat biases from its training data. AI is a powerful assistant, not an authority.
+
+#### 0:30–0:45 · Types and uses of AI tools (15 min, main lesson)
+*Survey the main families of AI tools and what each is good for.*
+
+1. Walk through the tool families with one use each: chat assistants (draft, explain, brainstorm); image tools (create illustrations, edit photos); voice and transcription (turn a recorded meeting into notes); translation (English to Kiswahili, with checking); research tools that cite sources; AI inside apps (Canva's AI features, writing help in Google Docs or Microsoft tools, Meta AI in WhatsApp); coding and spreadsheet assistants (explain a formula).
+2. Free versus paid: many tools have free tiers with limits; some features need payment or a specific country; terms and availability change, so check the tool's current terms. Data use: free tools may use your inputs to improve their models unless you change settings.
+3. Ask learners to match five everyday tasks (writing a CV summary, transcribing a voice note, designing a poster, translating a notice, checking a fact) to a tool family.
+
+#### 0:45–1:00 · Demonstration - three AI tasks and what needed checking (15 min, demonstration)
+*Watch an AI assistant explain, draft and summarise, and see the facilitator check each output.*
+
+1. Task 1, explain: 'Explain what a KRA PIN is and why a young person starting work needs one, in simple English, 100 words.' Read the answer and point out what you would confirm on the official KRA website.
+2. Task 2, draft: 'Draft a polite WhatsApp message to a client asking for payment of an overdue invoice of KES 4,500 for a logo design.' Show edits to tone and details.
+3. Task 3, summarise: paste a public, non-personal article or notice (for example a county youth-fund announcement) and ask for five bullet points. Compare with the original; find anything missed or wrong.
+4. Model the AI task log - task, tool, prompt, what was good, what I checked or changed, final decision.
+
+#### 1:00–1:05 · Stretch break (5 min, stretch break)
+*A five-minute stretch and movement break (seated option available).*
+
+1. Invite everyone to stand, stretch, walk or drink water for five minutes; offer a seated option for anyone who prefers or needs it.
+2. Restart on time with a one-line reminder of where the session is and what comes next.
+
+#### 1:05–1:25 · Your three AI tasks (20 min, practical exercise)
+*Complete three AI-assisted tasks of your own and fill in the AI task log.*
+
+1. Learners choose three real tasks from their life or work - one explain, one draft, one summarise (for example explain a topic from their course, draft a message to a landlord or customer, summarise a public notice).
+2. For each, they fill the AI task log: tool, prompt, output quality (1 to 5), what they checked and how (source, own knowledge, asking someone), what they changed, and whether they would use the output.
+3. Remind learners of the privacy rule - no personal data, passwords, ID numbers, other people's private messages or confidential work information in prompts.
+4. Learners without a device pair up; one types, both evaluate.
+
+#### 1:25–1:45 · Responsible AI scenarios and group AI use code (20 min, group activity)
+*Discuss real ethical dilemmas and agree how the group will use AI responsibly.*
+
+1. Groups of four discuss one scenario each: (1) a college student submits an AI-written assignment as their own; (2) a job seeker asks AI to add experience they do not have to a CV; (3) someone makes an AI image of a classmate in an embarrassing situation; (4) a small business pastes customers' names and phone numbers into an AI tool to write personalised messages; (5) a youth group shares an AI-written health claim on WhatsApp without checking.
+2. Each group answers: what is the harm, who is affected, what would be the responsible choice? 8 minutes. Groups report back in one minute each.
+3. Draw out five principles: honesty and disclosure (say when AI helped); privacy (protect personal data - Kenya's Data Protection Act 2019 gives people rights over their personal data); accuracy (verify before sharing); fairness (watch for bias and stereotypes); human responsibility (you are accountable for what you submit, send or publish).
+4. Agree the group AI use code: six to eight short rules written by the group, including a disclosure line format ('AI-assisted: drafted with [tool], edited and checked by me'). Everyone agrees in the chat or by signing.
+5. Note that making or sharing sexual or humiliating fake images of a real person can cause serious harm, can be a crime and must be reported.
+
+#### 1:45–1:55 · Knowledge check (10 min, assessment and feedback)
+*Answer quick questions on how AI works and responsible use.*
+
+1. Run the assessment questions as a quick quiz and discuss the answers.
+
+#### 1:55–2:00 · Wrap-up and homework (5 min, conclusion and assignment)
+*Summarise and confirm the homework.*
+
+1. Each learner shares one surprising thing they learned about AI today.
+2. Set the homework and post the group AI use code in the cohort space.
+
+### 6. Practical demonstrations
+- **Three AI tasks with checking**
+    1. Run explain, draft and summarise tasks live; for each, show the checking step and the task log entry.
+
+### 7. Guided exercises
+- **Tool matching:** Match five everyday tasks to the right family of AI tool and say why.
+
+### 8. Individual activities
+- **AI task log:** Complete three real AI-assisted tasks (explain, draft, summarise) and record prompt, quality, checks, changes and decision.
+
+### 9. Group activities
+- **Responsible AI scenarios:** Discuss an ethical scenario, identify harms and the responsible choice, and report back.
+- **Group AI use code:** Agree six to eight rules for responsible AI use, including a disclosure line, and sign it.
+
+### 10. Real-world examples (Kenya)
+- Fraud alerts on mobile money and bank transactions as everyday machine learning.
+- A Kitengela hardware shop using an AI-drafted, owner-checked set of replies to common customer questions.
+- A university student in Eldoret using AI to explain a statistics concept and then checking it against lecture notes.
+- Viral AI-generated fake images and voice notes shared on Kenyan social media, and why checking matters.
+
+### 11. Tools and resources
+- At least one free AI chat assistant available in Kenya
+- AI task log template and scenario cards
+- A public, non-personal article or notice for the summarising demo
+- Shared document or flip chart for the group AI use code
+- Free and low-data options: the free tier of an AI assistant in a phone browser (no paid plan or app needed); text chat uses little data; one shared phone or laptop per pair or three; printed scenario cards.
+
+### 12. Assessment questions and activities
+| Question or task | What a good answer shows |
+|---|---|
+| In simple words, how does a chat assistant produce an answer? | It predicts likely next words based on patterns learned from huge amounts of text; it does not look facts up unless connected to search. |
+| What is a hallucination? | A confident but false or invented output (fake facts, references, quotes or numbers). |
+| Name three types of AI tools and one use for each. | Any three tool families with a sensible use. |
+| Give two examples of information you must never put into an AI tool. | Passwords and PINs, ID numbers, other people's personal data, health information, confidential work data. |
+| Write your disclosure line for a piece of work AI helped with. | Names the tool and what the learner did (edited, checked). |
+
+### 13. Expected learner outputs
+- AI task log with three completed tasks and checks
+- Signed group AI use code with the disclosure line format
+
+### 14. Facilitator instructions
+**Before the session**
+- Test the AI tools on the venue internet; prepare screenshots of the three demo tasks as a backup.
+- Choose a public, non-personal text for the summarising demo.
+- Print or share the task log template and scenario cards.
+
+**During the session**
+- Keep explanations concrete; avoid technical jargon unless a learner asks.
+- Model checking every single time you show an AI output.
+
+**Inclusion and safeguarding**
+- Some scenarios (fake images) may relate to learners' experiences. Allow learners to pass, and follow the DIRA LEARN safeguarding process if anyone discloses image-based abuse.
+- Do not require learners to create accounts that need personal data they are not comfortable sharing; use pairs or the facilitator's demo instead.
+- Consent and privacy: before using an identifiable person (face, voice or name), a photograph of someone, or a real business's name, logo, prices, customer details or results, the learner gets permission from that person or owner - in writing (a WhatsApp message is enough) for anything shown outside the class. Never children. Learners who cannot or do not wish to publish publicly use the private or simulated option, which is assessed with the same rubric and never marked down.
+- Shared devices and low data: pair or group learners on one device and rotate the typing role each task; learners without a device or data follow the shared screen and record their work on paper or later on programme Wi-Fi. Never require a paid tool or plan, or an account that needs personal data the learner does not want to give.
+
+**After the session**
+- Post the group AI use code in the cohort space and upload slides and templates.
+- Review task logs and note common checking gaps to address in session 4.
+- Record attendance.
+
+### 15. Homework and follow-up
+- Use AI for one more real task this week and add it to your task log with your checks. Do not paste personal data (ID numbers, phone numbers, health details) or a business's private information into an AI tool without permission.
+- Find one example of AI in a Kenyan service you use and explain in two sentences what it does.
+- Think of a real person, business or group you could help with an AI-assisted solution for your final project.
+
+### 16. How this differs from other tracks
+- Core session 2 introduced AI awareness for everyone. Here learners study how AI works and the full range of tools, which the rest of the track builds on.
+
+---
+
+## Session 4 (Week 2, 120 minutes): Prompt engineering, AI for research and learning, and fact-checking
+
+*Write clear and effective prompts, use AI to research and learn, and evaluate and fact-check AI outputs before using them.*
+
+### 1. Learning purpose
+Learners move from casual questions to deliberate prompting. They learn a prompt framework and advanced patterns, use AI as a study and research partner, and apply a fact-checking routine to AI outputs. They produce the first version of their personal prompt library and a verified research brief.
+
+### 2. Learning objectives
+By the end of the session learners can:
+- Use the RTCF prompt framework (Role, Task, Context, Format) plus constraints and examples
+- Apply at least four prompt patterns (step by step, ask me questions first, critique and improve, give examples)
+- Iterate a prompt and explain why the output improved
+- Use AI to learn a topic (explain, quiz, summarise, compare) and to plan research
+- Fact-check AI outputs using lateral reading and official or reliable sources
+- Produce a short research brief in which every key claim has a verified source
+
+### 3. Topics and subtopics
+- **Prompt engineering**
+    - The RTCF framework - Role, Task, Context, Format
+    - Constraints (length, tone, audience, language)
+    - Giving examples (few-shot prompting)
+    - Prompt patterns - step by step, ask me questions first, critique and improve, compare options
+    - Iterating and follow-up prompts
+    - Building a reusable prompt library
+- **AI for research and learning**
+    - AI as a tutor - explain, simplify, quiz me
+    - Summarising long texts you are allowed to use
+    - Planning research questions
+    - AI research tools that show sources
+    - Limits - invented references and outdated facts
+- **Fact-checking and evaluating AI outputs**
+    - Stop - do not share yet
+    - Lateral reading (check what other sources say)
+    - Official and reliable sources in Kenya (government, KNBS, Kenya Law, recognised media, academic sources)
+    - Checking numbers, dates, names, quotes and references
+    - Accuracy, relevance, completeness and bias checklist
+
+### 4. Time allocation
+| Time | Minutes | Segment | Type |
+|---|---|---|---|
+| 0:00–0:10 | 10 | Recap and task log review | Introduction and recap |
+| 0:10–0:30 | 20 | Prompt engineering - framework and patterns | Main lesson |
+| 0:30–0:50 | 20 | Prompt lab | Practical exercise |
+| 0:50–1:05 | 15 | AI for research and learning | Main lesson |
+| 1:05–1:10 | 5 | Stretch break | Stretch break |
+| 1:10–1:30 | 20 | Demonstration and practice - fact-checking AI outputs | Demonstration |
+| 1:30–1:45 | 15 | Verified research brief | Practical exercise |
+| 1:45–1:55 | 10 | Knowledge check | Assessment and feedback |
+| 1:55–2:00 | 5 | Wrap-up and homework | Conclusion and assignment |
+| **Total** | **120** | Equals the timetable (120 min) | |
+
+### 5. Step-by-step teaching content
+#### 0:00–0:10 · Recap and task log review (10 min, introduction and recap)
+*Review what needed checking in your AI tasks.*
+
+1. Ask learners what they had to check or change in their task logs. Group the answers (wrong facts, generic tone, missing local detail, too long).
+2. Say that today they learn to get better outputs (prompting) and to catch problems (fact-checking).
+
+#### 0:10–0:30 · Prompt engineering - framework and patterns (20 min, main lesson)
+*Learn the RTCF framework and prompt patterns that produce better outputs.*
+
+1. Teach RTCF. Role - who the AI should act as ('You are a careers adviser in Kenya'). Task - exactly what to do ('Write three bullet points for a CV'). Context - the details it needs ('for Amina, 22, diploma in hospitality from Mombasa, two years of part-time waitressing'). Format - how the answer should look ('three bullets, each under 15 words, British English').
+2. Add constraints and examples: tone, audience, length, language (English, Kiswahili), what to avoid. Give an example of the style you want; AI copies examples well.
+3. Prompt patterns: (1) Step by step - 'Explain step by step'; (2) Ask me questions first - 'Before you answer, ask me up to five questions you need'; (3) Critique and improve - 'Here is my draft; list three weaknesses, then rewrite it'; (4) Compare options - 'Give three options with pros and cons in a table'; (5) Role-play - 'Act as a tough interviewer for a bank teller job and ask me one question at a time'.
+4. Iteration: the first answer is a draft. Follow up - 'shorter', 'more local examples', 'simpler words', 'make it sound like a 20-year-old wrote it, not a robot'.
+5. Show a weak and a strong prompt side by side with their outputs.
+
+#### 0:30–0:50 · Prompt lab (20 min, practical exercise)
+*Rewrite weak prompts into strong ones, compare outputs and start your prompt library.*
+
+1. Learners get four weak prompts ('write about farming', 'make a CV', 'business ideas', 'explain taxes') and rewrite each using RTCF for a specific Kenyan situation.
+2. They run their weak and strong versions and rate both outputs from 1 to 5, noting why the strong one is better.
+3. Learners save their best three prompts in a prompt library (document or note) with the purpose, the prompt text and tips.
+4. Pairs swap one prompt and test each other's; they suggest one improvement.
+
+#### 0:50–1:05 · AI for research and learning (15 min, main lesson)
+*Learn to use AI as a tutor and research planner without trusting it blindly.*
+
+1. Name the tools for today: free tiers of ChatGPT, Gemini, Copilot or Claude, and Perplexity for cited answers - or Duck.ai, which needs no account at all. Everyone can do every exercise with Duck.ai or on the shared screen.
+2. AI as a tutor: 'Explain [topic] as if I am in Form Four, then give me five quiz questions, then mark my answers.' Show this live with a topic like compound interest or photosynthesis.
+3. Summarising: only paste texts you are allowed to share (public documents, your own notes). Ask for a summary plus 'what is missing or uncertain?'.
+4. Research planning: ask AI to suggest research questions, keywords and types of sources, then do the actual research with search engines and reliable sources.
+5. Research tools that show sources (some assistants can search the web and cite pages) are more checkable, but the sources must still be opened and read - AI sometimes cites pages that do not say what it claims, or invents references entirely.
+6. Learning integrity: using AI to understand is good; submitting AI work as your own understanding is not. Follow your institution's rules.
+
+#### 1:05–1:10 · Stretch break (5 min, stretch break)
+*A five-minute stretch and movement break (seated option available).*
+
+1. Invite everyone to stand, stretch, walk or drink water for five minutes; offer a seated option for anyone who prefers or needs it.
+2. Restart on time with a one-line reminder of where the session is and what comes next.
+
+#### 1:10–1:30 · Demonstration and practice - fact-checking AI outputs (20 min, demonstration)
+*Watch the fact-checking routine applied to an AI answer, then use it yourself.*
+
+1. Ask AI a factual question with Kenyan specifics (for example 'What are the requirements to register a business name in Kenya and how much does it cost?'). Read the answer.
+2. Apply the routine. Stop - do not share yet. Identify the claims (requirements, costs, process). Lateral reading - search each claim and open official sources (eCitizen Business Registration Service pages for business names; KRA for tax; Kenya Law for laws; KNBS for statistics). Compare. Mark each claim as confirmed, wrong or not found.
+3. Show a fake reference: ask the AI for 'three academic references on youth unemployment in Kenya' and check whether each actually exists (search the exact title). Explain that invented references are common.
+4. Show the evaluation checklist - accuracy, relevance, completeness, up to date, bias or one-sidedness, appropriate for the audience.
+5. Learners apply the routine to one AI answer from their own task log or prompt lab and record the result.
+
+#### 1:30–1:45 · Verified research brief (15 min, practical exercise)
+*Use AI to plan and draft a short research brief, then verify every key claim.*
+
+1. Learners choose a question linked to their final project idea (for example 'What support exists for young farmers in Nakuru County?' or 'What do small shops in my area struggle with online?').
+2. They use AI to plan the question and draft a 200-word brief, then verify at least five claims with real sources, correcting or removing anything unverified.
+3. The final brief lists sources (title and link) beside each claim and ends with the AI disclosure line.
+
+#### 1:45–1:55 · Knowledge check (10 min, assessment and feedback)
+*Answer questions on prompting, research and fact-checking.*
+
+1. Run the assessment questions and discuss answers.
+
+#### 1:55–2:00 · Wrap-up and homework (5 min, conclusion and assignment)
+*Summarise and confirm the homework.*
+
+1. Ask learners to name their best prompt pattern so far.
+2. Set the homework.
+
+### 6. Practical demonstrations
+- **Weak versus strong prompt**
+    1. Run a weak prompt, then the RTCF version, and compare outputs aloud.
+- **Fact-checking routine and fake references**
+    1. Verify an AI answer claim by claim against official sources and test whether AI-provided references exist.
+
+### 7. Guided exercises
+- **Prompt rewrite:** Rewrite four weak prompts with RTCF for a specific Kenyan situation and compare outputs.
+- **Claim check:** Mark each claim in an AI answer as confirmed, wrong or not found, with the source used.
+
+### 8. Individual activities
+- **Prompt library v1:** Save your three best prompts with their purpose, the prompt text and tips for using them.
+- **Verified research brief:** Draft a 200-word brief with AI help, verify at least five claims and list sources beside them.
+
+### 9. Group activities
+- **Prompt swap:** Test a partner's prompt and suggest one improvement.
+
+### 10. Real-world examples (Kenya)
+- A Mombasa hospitality graduate using RTCF to get CV bullet points for hotel jobs.
+- Checking business-name registration steps against the official eCitizen Business Registration Service pages instead of trusting an AI answer.
+- An AI tool inventing academic references on youth unemployment in Kenya that do not exist.
+- A KCSE leaver using AI to quiz themselves on a topic before a college entry test.
+
+### 11. Tools and resources
+- Free AI tools (free tiers; limits and sign-in rules change, so check them in the week of the session): ChatGPT, Google Gemini, Microsoft Copilot and Claude for prompting practice; Perplexity for answers that show sources. Most need a free account for full use.
+- No-account alternative: Duck.ai (DuckDuckGo's free AI chat at duck.ai) works in any phone or computer browser without an account, email or phone number, with anonymised chats and a daily limit. ChatGPT and Perplexity can also be used logged out with tighter limits. If none works on the venue network, learners follow the facilitator's demo on one shared screen and write their prompts on paper.
+- Search engine and official websites (eCitizen, KRA, Kenya Law, KNBS)
+- Prompt library template, evaluation checklist and research brief template
+- Low-data option: text prompts only; keep the prompt library as a phone note or on paper; use the text pages of official sites rather than videos.
+
+### 12. Assessment questions and activities
+| Question or task | What a good answer shows |
+|---|---|
+| What do the letters RTCF stand for? | Role, Task, Context, Format. |
+| Improve this prompt - 'make me a business plan'. | Should add role, specific business, location, audience, length and format. |
+| What is lateral reading? | Checking a claim by opening other reliable sources rather than relying on the one answer. |
+| An AI gives you a reference to a report. How do you check it? | Search the exact title and author, find the original, confirm it exists and says what was claimed. |
+| Name four things to check in an AI output. | Accuracy, relevance, completeness, currency, bias, suitability for audience. |
+
+### 13. Expected learner outputs
+- Prompt library v1 (three tested prompts)
+- Fact-check record for one AI answer
+- Verified research brief with sources and disclosure
+
+### 14. Facilitator instructions
+**Before the session**
+- Prepare weak prompts, a factual question with Kenyan specifics and the fact-checking routine slide.
+- Check that the official websites load on the venue internet; prepare screenshots as a backup.
+- In the week of the session, test on the venue network which free AI tools work without signing in (start with Duck.ai), and tell learners in advance that no account is required to take part.
+
+**During the session**
+- Have learners type and test, not just listen; the prompt lab is the core of the session.
+- When fact-checking, verify live even if it is slow - learners must see the effort it takes.
+
+**Inclusion and safeguarding**
+- Remind learners to paste only public or their own content when summarising.
+- Health, legal and financial AI answers must always be checked with qualified sources; say so explicitly.
+- Shared devices and low data: pair or group learners on one device and rotate the typing role each task; learners without a device or data follow the shared screen and record their work on paper or later on programme Wi-Fi. Never require a paid tool or plan, or an account that needs personal data the learner does not want to give.
+- No learner is required to create an AI account. Learners who choose to sign up use a programme-only email if they prefer, and never their ID number.
+
+**After the session**
+- Give feedback on research briefs, especially the quality of sources.
+- Record attendance.
+
+### 15. Homework and follow-up
+- Add two more prompts to your prompt library and test them on real tasks.
+- Choose your final project brief and write one paragraph - who it helps, what problem it solves, and how AI will help.
+
+### 16. How this differs from other tracks
+- Other tracks use AI only as an optional helper. The AI Tools track teaches prompting and verification as core skills that learners can then apply to marketing, content or business work.
+
+---
+
+## Session 5 (Week 3, 120 minutes): AI-assisted writing, images, creative work and presentations
+
+*Use AI responsibly to draft and improve writing, create images and creative work, and build presentations, keeping your own voice and checking every output.*
+
+### 1. Learning purpose
+Learners apply prompting to three common outputs - writing, images and presentations - with a 'human first and last' workflow. They produce an AI-assisted piece of writing in their own voice, an AI-assisted image with an honest label, and a short presentation, all checked and disclosed.
+
+### 2. Learning objectives
+By the end of the session learners can:
+- Use the human-first-and-last workflow (plan, prompt, edit, check, disclose) for writing
+- Use AI to draft, edit, shorten, change tone and translate, while keeping their own voice and facts
+- Write image prompts with subject, setting, style, lighting and composition, and evaluate results
+- Explain the risks of AI images (deepfakes, consent, bias, copyright uncertainty) and label AI images honestly
+- Plan and build a five-slide presentation with AI support and check it for accuracy and clarity
+- Disclose AI assistance appropriately
+
+### 3. Topics and subtopics
+- **AI-assisted writing**
+    - Human first and last workflow
+    - Drafting, editing, shortening and changing tone
+    - Keeping your own voice
+    - Translation and checking Kiswahili or other languages
+    - CVs, cover letters and emails - truthfully
+    - Academic integrity and plagiarism
+- **AI-generated images and creative work**
+    - How image prompts work - subject, setting, style, lighting, composition
+    - Editing and variations
+    - Common image problems (hands, text, odd details)
+    - Bias in generated people and places
+    - Deepfakes, consent and real people
+    - Copyright uncertainty and labelling AI images
+- **AI for presentations**
+    - Outlining a presentation with AI
+    - One idea per slide
+    - AI features in slide and design tools
+    - Checking facts, numbers and images
+    - Speaker notes and rehearsal
+
+### 4. Time allocation
+| Time | Minutes | Segment | Type |
+|---|---|---|---|
+| 0:00–0:10 | 10 | Recap and project brief check | Introduction and recap |
+| 0:10–0:30 | 20 | AI-assisted writing | Main lesson |
+| 0:30–0:45 | 15 | Write with AI in your own voice | Practical exercise |
+| 0:45–1:05 | 20 | AI images and creative work | Demonstration |
+| 1:05–1:10 | 5 | Stretch break | Stretch break |
+| 1:10–1:25 | 15 | Create an AI-assisted image | Practical exercise |
+| 1:25–1:45 | 20 | AI for presentations - demonstration and build | Practical exercise |
+| 1:45–1:55 | 10 | Gallery review and knowledge check | Assessment and feedback |
+| 1:55–2:00 | 5 | Wrap-up and homework | Conclusion and assignment |
+| **Total** | **120** | Equals the timetable (120 min) | |
+
+### 5. Step-by-step teaching content
+#### 0:00–0:10 · Recap and project brief check (10 min, introduction and recap)
+*Share your final project idea in one sentence.*
+
+1. Each learner shares their final project brief in one sentence. Note them for session 7.
+2. Introduce the human-first-and-last idea - you decide the purpose and facts first, and you edit and check last.
+
+#### 0:10–0:30 · AI-assisted writing (20 min, main lesson)
+*Learn a responsible workflow for writing with AI while keeping your own voice.*
+
+1. Workflow: (1) plan - write your purpose, audience and key points yourself; (2) prompt - give AI your points and ask for a draft; (3) edit - rewrite in your voice, cut generic phrases; (4) check - facts, names, numbers, tone; (5) disclose.
+2. Common uses: improve a cover letter, shorten a long message, change tone (formal for a bank, friendly for customers), turn notes into a report, fix grammar, translate.
+3. Your voice: AI writing often sounds generic ('In today's fast-paced world...'). Show how to remove filler and add personal detail and local examples.
+4. Truthfulness: AI must never add skills, experience, qualifications or achievements you do not have to a CV or application. Employers check, and false claims can cost the job.
+5. Translation: AI translation into Kiswahili is useful but can be unnatural or wrong; ask a fluent speaker to check important messages.
+6. Integrity: in college and at work, follow the rules on AI use; when allowed, disclose.
+
+#### 0:30–0:45 · Write with AI in your own voice (15 min, practical exercise)
+*Produce a short piece of real writing with AI help and edit it into your own voice.*
+
+1. Learners choose a real piece: a cover letter paragraph, a message to a client, a post for a community group, or a section of their project.
+2. They follow the workflow, keeping the AI draft and their edited version side by side and highlighting what they changed.
+3. Partners read the final version and say whether it sounds like the writer.
+
+#### 0:45–1:05 · AI images and creative work (20 min, demonstration)
+*See how image prompts work, what goes wrong, and how to use AI images responsibly.*
+
+1. Explain image prompts: subject (a young woman selling fresh fruit), setting (a busy market in Kisumu in the morning), style (realistic photo, or bright flat illustration), lighting (soft morning light), composition (close-up, eye level, space on the right for text).
+2. Demonstrate in an available free image tool (for example the image features in Canva, Copilot, Gemini or Meta AI, depending on what works in Kenya at the time). Show two variations and an edit.
+3. Show common problems: distorted hands, unreadable text, wrong local details (wrong currency, unrealistic markets), and stereotyped depictions of Africans or women. Discuss how to correct them with better prompts or by using real photos instead.
+4. Responsible rules: never create images of real people without their consent; never create fake images meant to deceive (fake events, fake products, fake evidence); label AI images ('AI-generated image'); for real products and businesses, prefer real photos because customers expect accuracy. Copyright rules for AI images are still developing in many countries, so do not claim exclusive ownership without checking the tool's terms.
+
+#### 1:05–1:10 · Stretch break (5 min, stretch break)
+*A five-minute stretch and movement break (seated option available).*
+
+1. Invite everyone to stand, stretch, walk or drink water for five minutes; offer a seated option for anyone who prefers or needs it.
+2. Restart on time with a one-line reminder of where the session is and what comes next.
+
+#### 1:10–1:25 · Create an AI-assisted image (15 min, practical exercise)
+*Write an image prompt, improve it twice and label the final image.*
+
+1. Learners write an image prompt for their project (an illustration for a poster, a concept image for a presentation) using the five parts.
+2. They improve the prompt twice and keep the best result, noting problems they fixed.
+3. They label the image and write one sentence on why AI was (or was not) the right choice for it.
+
+#### 1:25–1:45 · AI for presentations - demonstration and build (20 min, practical exercise)
+*Outline and build a five-slide presentation with AI support and check it.*
+
+1. Demonstrate: prompt 'Act as a presentation coach. Create a five-slide outline for a 3-minute talk to a youth group in Machakos about using AI safely for job searching. One key idea per slide, with a title and three short points and speaker notes.' Review and edit the outline.
+2. Show how to build slides quickly in Google Slides, PowerPoint or Canva (some have AI design features), using big text, one idea per slide and real or labelled images.
+3. Learners create a five-slide presentation for their final project idea or a topic of their choice, with speaker notes.
+4. They check every fact and number on the slides and add a disclosure line on the last slide.
+
+#### 1:45–1:55 · Gallery review and knowledge check (10 min, assessment and feedback)
+*Review each other's work and answer quick questions.*
+
+1. Learners post their image and first slide in the cohort space; each learner comments on two others (one strength, one fix).
+2. Ask two assessment questions aloud.
+
+#### 1:55–2:00 · Wrap-up and homework (5 min, conclusion and assignment)
+*Summarise and confirm the homework.*
+
+1. Remind learners to save all outputs in their project folder.
+2. Set the homework.
+
+### 6. Practical demonstrations
+- **Human-first-and-last writing**
+    1. Write your key points, prompt for a draft, then visibly edit it into your own voice and check facts.
+- **Image prompt anatomy and fixes**
+    1. Build an image prompt part by part, generate variations, fix a problem with a better prompt.
+- **AI-assisted presentation**
+    1. Generate an outline, edit it, build two slides live and add speaker notes.
+
+### 7. Guided exercises
+- **Remove the robot:** Take a generic AI paragraph and rewrite it with your own voice, a personal detail and a local example.
+
+### 8. Individual activities
+- **AI-assisted writing piece:** Produce a real piece of writing using the five-step workflow, showing the AI draft and your edited version.
+- **AI-assisted image:** Create and label an image for your project using a five-part prompt improved twice. Do not create images of real, identifiable people without their consent.
+- **Five-slide presentation:** Build a five-slide presentation with speaker notes, checked facts and a disclosure line.
+
+### 9. Group activities
+- **Voice check:** A partner reads your final writing and says whether it sounds like you.
+- **Gallery review:** Comment on two classmates' images and slides with one strength and one fix.
+
+### 10. Real-world examples (Kenya)
+- A hospitality graduate improving a cover letter for a hotel in Diani without adding false experience.
+- A youth group in Machakos preparing a talk on safe AI use for job seekers.
+- AI images that wrongly show Kenyan markets or put the wrong currency on price tags.
+- A Kakamega farmers' group using an AI illustration for a training poster, labelled as AI-generated.
+
+### 11. Tools and resources
+- AI chat assistant; a free AI image tool available in Kenya
+- Google Slides, PowerPoint or Canva
+- Writing workflow card and image prompt template
+- Free or low-cost alternatives: free tiers of image tools (daily limits apply) - or, where image generation is not possible, write and improve the image prompt and sketch the result on paper; Google Slides or Canva free, or the phone's built-in office app offline. At most two generated images per learner on mobile data.
+
+### 12. Assessment questions and activities
+| Question or task | What a good answer shows |
+|---|---|
+| What are the five steps of the human-first-and-last workflow? | Plan, prompt, edit, check, disclose. |
+| Why must you never let AI add experience to your CV? | It is dishonest, employers verify, it can cost the job and damage reputation. |
+| Name the five parts of a good image prompt. | Subject, setting, style, lighting, composition. |
+| When should a business use a real photo instead of an AI image? | When showing real products, people or places customers expect to be accurate. |
+| What should the last slide of an AI-assisted presentation include? | A disclosure line and, where facts were used, sources. |
+
+### 13. Expected learner outputs
+- AI-assisted writing piece (draft and edited version)
+- Labelled AI-assisted image with prompt notes
+- Five-slide presentation with speaker notes and disclosure
+
+### 14. Facilitator instructions
+**Before the session**
+- Check which free image tools currently work in Kenya on the venue internet; prepare backups.
+- Prepare a generic AI paragraph for the 'remove the robot' exercise.
+
+**During the session**
+- Time-box the image activity; image tools can absorb a whole session.
+- Stress that learners' own judgement is what makes the output valuable.
+
+**Inclusion and safeguarding**
+- No images of real people (including classmates) without consent; no sexual, violent or humiliating content.
+- If a learner creates harmful content, stop the activity, address it privately and follow the programme's conduct and safeguarding processes.
+- Consent and privacy: before using an identifiable person (face, voice or name), a photograph of someone, or a real business's name, logo, prices, customer details or results, the learner gets permission from that person or owner - in writing (a WhatsApp message is enough) for anything shown outside the class. Never children. Learners who cannot or do not wish to publish publicly use the private or simulated option, which is assessed with the same rubric and never marked down.
+- Shared devices and low data: pair or group learners on one device and rotate the typing role each task; learners without a device or data follow the shared screen and record their work on paper or later on programme Wi-Fi. Never require a paid tool or plan, or an account that needs personal data the learner does not want to give.
+
+**After the session**
+- Review the gallery and give feedback on disclosure and checking.
+- Record attendance.
+
+### 15. Homework and follow-up
+- Improve your presentation using the gallery feedback.
+- Write the project plan for session 7 - problem, user, AI tools you will use, human checks, and how you will test it with a real user.
+
+### 16. How this differs from other tracks
+- Content Creation teaches photography, video and design by hand; AI Tools teaches when and how AI can assist creative work and its limits. Digital Marketing uses captions and graphics for a campaign; AI Tools focuses on the AI workflow and checking.
+
+---
+
+## Session 6 (Week 3, 120 minutes): AI for productivity, business and automation, with privacy, bias and limits
+
+*Use AI for everyday tasks and small business activities, understand simple automation, and manage privacy, bias and the limitations of AI.*
+
+### 1. Learning purpose
+Learners apply AI to routine work - planning, summarising, organising, customer communication and business tasks - and learn how simple automations save time. They study privacy, bias and the limits of AI in depth, and design a workflow with reusable prompts and clear human checks.
+
+### 2. Learning objectives
+By the end of the session learners can:
+- Use AI for at least four productivity tasks (planning, summarising, organising, drafting, spreadsheet help)
+- Use AI for small business activities (customer replies, product descriptions, simple market research, social posts) with checks
+- Explain automation (trigger, action, human check) and identify three automation opportunities in a workflow
+- Explain how personal data must be protected when using AI, with reference to Kenya's Data Protection Act 2019
+- Identify bias and limitations in AI outputs, including language and local-context gaps
+- Map a routine workflow and build a reusable prompt set with human checkpoints
+
+### 3. Topics and subtopics
+- **AI for productivity and everyday tasks**
+    - Planning a week or a project
+    - Summarising notes and meetings you have permission to record
+    - To-do lists and priorities
+    - Emails and messages
+    - Spreadsheet formulas and simple data analysis
+    - Studying and job searching
+- **AI-assisted business activities**
+    - Customer replies and FAQs
+    - Product descriptions
+    - Simple market and competitor research (verified)
+    - Social media post ideas
+    - Drafting business documents (quotes, invoices, simple plans)
+    - Where AI should not decide (pricing without data, hiring, credit)
+- **Introduction to automation**
+    - Trigger, action and human check
+    - Automation already in everyday tools (auto-replies, filters, scheduled posts, forms to sheets)
+    - No-code automation tools - overview
+    - When automation goes wrong
+    - Keeping a human in the loop
+- **Privacy, bias and limitations of AI**
+    - Personal data and consent
+    - Kenya Data Protection Act 2019 - fair, lawful, limited use
+    - Tool settings and data retention
+    - Bias - where it comes from and examples
+    - Language and local-context gaps (Kiswahili, Sheng, local languages)
+    - Over-reliance and skills
+    - When not to use AI
+
+### 4. Time allocation
+| Time | Minutes | Segment | Type |
+|---|---|---|---|
+| 0:00–0:10 | 10 | Recap and time audit | Introduction and recap |
+| 0:10–0:25 | 15 | AI for productivity and everyday tasks | Main lesson |
+| 0:25–0:40 | 15 | AI-assisted business activities | Main lesson |
+| 0:40–1:00 | 20 | Introduction to automation | Main lesson |
+| 1:00–1:05 | 5 | Stretch break | Stretch break |
+| 1:05–1:25 | 20 | Privacy, bias and limitations | Main lesson |
+| 1:25–1:45 | 20 | Workflow map and reusable prompt set | Practical exercise |
+| 1:45–1:55 | 10 | Knowledge check | Assessment and feedback |
+| 1:55–2:00 | 5 | Wrap-up and homework | Conclusion and assignment |
+| **Total** | **120** | Equals the timetable (120 min) | |
+
+### 5. Step-by-step teaching content
+#### 0:00–0:10 · Recap and time audit (10 min, introduction and recap)
+*List the routine tasks that take up your time each week.*
+
+1. Learners list three routine tasks they do every week and estimate the time each takes (for example replying to customer questions, planning a study timetable, writing reports).
+2. Say that today they will decide which parts AI or automation can help with, and which parts need a human.
+
+#### 0:10–0:25 · AI for productivity and everyday tasks (15 min, main lesson)
+*See practical ways AI saves time on planning, summarising, organising and spreadsheets.*
+
+1. Planning: 'I have these tasks and deadlines; make a realistic plan for the week with two hours a day.' Then adjust it to your real life.
+2. Summarising and organising: turn messy notes into a structured summary with actions; ask for a to-do list sorted by priority.
+3. Spreadsheets: ask AI to explain or write a formula ('A Google Sheets formula to total column C where column B says Paid'), then test it on sample data.
+4. Job searching: tailor a CV summary to a job advert (truthfully), prepare interview practice questions, draft follow-up emails.
+5. Remind learners - always review, adjust and own the final result.
+
+#### 0:25–0:40 · AI-assisted business activities (15 min, main lesson)
+*Learn how small businesses use AI for customer replies, descriptions, research and content, and where AI should not decide.*
+
+1. Customer replies: build an FAQ answer set (prices, delivery, opening hours) with AI from the owner's real information; the owner checks every answer before use.
+2. Product descriptions: give AI the real features and ask for short, honest descriptions for WhatsApp catalogue and Jumia-style listings.
+3. Market research: ask AI for questions to ask customers and competitors to look at, then verify with real observation and conversations; AI does not know your local market prices.
+4. Business documents: quotes, invoices, simple plans and letters - check numbers carefully.
+5. Where AI should not decide alone: setting prices without real cost data, hiring decisions, deciding who gets credit, medical or legal advice. AI can support thinking; a responsible person decides.
+
+#### 0:40–1:00 · Introduction to automation (20 min, main lesson)
+*Understand trigger-action automation and spot safe opportunities in a workflow.*
+
+1. Define automation: a rule that does a task automatically. Every automation has a trigger (something happens), an action (what is done) and should have a human check where mistakes matter.
+2. Everyday examples: WhatsApp Business greeting and away messages (trigger - message received; action - auto-reply); email filters; scheduled social posts; a Google Form that saves answers to a Google Sheet and sends a confirmation email.
+3. No-code tools such as Zapier, Make or built-in automation in Google and Microsoft tools can connect apps (for example 'new form response, then add a row and notify me'). Explain conceptually; free tiers and features change.
+4. Demonstrate (or show screenshots of) a Google Form connected to a Sheet for event registrations, and explain the human check (someone reviews registrations daily).
+5. When automation goes wrong: auto-replies giving wrong prices, messages sent to the wrong list, AI chatbots promising things the business cannot deliver. Rule - automate the routine, keep a human for exceptions and anything involving money, complaints or personal data.
+
+#### 1:00–1:05 · Stretch break (5 min, stretch break)
+*A five-minute stretch and movement break (seated option available).*
+
+1. Invite everyone to stand, stretch, walk or drink water for five minutes; offer a seated option for anyone who prefers or needs it.
+2. Restart on time with a one-line reminder of where the session is and what comes next.
+
+#### 1:05–1:25 · Privacy, bias and limitations (20 min, main lesson)
+*Learn how to protect personal data, recognise bias and know the limits of AI.*
+
+1. Privacy: personal data is any information that identifies a person (name, phone, ID, location, photos, health). Kenya's Data Protection Act 2019 requires personal data to be processed lawfully, fairly and transparently, for clear purposes, and kept secure; people have rights such as being informed and objecting. The Office of the Data Protection Commissioner oversees it.
+2. In practice: do not paste customers' or classmates' personal data into AI tools; remove names and numbers first (anonymise); check tool settings for chat history and training; use business or education versions with stronger protection if your organisation provides them.
+3. Bias: AI learns from data that reflects existing inequalities. Examples - image tools showing doctors as men and nurses as women; CV-screening tools that disadvantage certain names or schools; poorer performance in Kiswahili, Sheng and Kenyan local languages than in English. Ask AI for diverse examples and check outputs for stereotypes.
+4. Limitations: out-of-date knowledge, invented facts, no real understanding of local context, inconsistent answers, and over-reliance (if AI does all your thinking, your skills weaken).
+5. When not to use AI: confidential matters, emergencies, decisions that seriously affect someone's life, tasks your school or employer forbids, and anything you cannot check.
+
+#### 1:25–1:45 · Workflow map and reusable prompt set (20 min, practical exercise)
+*Map a routine workflow, mark AI, automation and human steps, and build a reusable prompt set.*
+
+1. Learners choose one routine workflow (their own, or one from their project user - for example a salon's booking enquiries, a youth group's event registration, a student's weekly study routine).
+2. They map each step and label it: H (human only), AI (AI-assisted with human check), A (automated with human check). They mark where personal data appears and how it is protected.
+3. They write a reusable prompt set - three to five prompts with placeholders (for example [customer question], [price list]) - and test at least two.
+4. Partners review the map for privacy risks and missing human checks.
+
+#### 1:45–1:55 · Knowledge check (10 min, assessment and feedback)
+*Answer questions on productivity, automation, privacy and bias.*
+
+1. Run the assessment questions and discuss answers.
+
+#### 1:55–2:00 · Wrap-up and homework (5 min, conclusion and assignment)
+*Summarise and confirm the homework.*
+
+1. Remind learners that session 7 is the project build - bring the project plan, prompt library and any materials.
+2. Set the homework.
+
+### 6. Practical demonstrations
+- **AI spreadsheet formula**
+    1. Ask AI for a formula, paste it into a sheet with sample data and test it, fixing any error.
+- **Form-to-sheet automation**
+    1. Show a Google Form linked to a Sheet with an email notification, and the human review step.
+- **Anonymising data**
+    1. Take a sample customer message list and remove names and numbers before using AI to categorise the questions.
+
+### 7. Guided exercises
+- **Bias spotting:** Ask an image or text tool for 'a picture/description of a successful entrepreneur' and discuss whose image appears and who is missing.
+
+### 8. Individual activities
+- **Workflow map:** Map a routine workflow with H, AI and A labels, personal data points and human checks.
+- **Reusable prompt set:** Write three to five placeholder prompts for the workflow and test at least two.
+
+### 9. Group activities
+- **Privacy review:** Review a partner's workflow map for privacy risks and missing human checks.
+
+### 10. Real-world examples (Kenya)
+- A Thika salon using AI-drafted, owner-approved replies for booking questions and a WhatsApp away message after hours.
+- A Nairobi youth group using a Google Form and Sheet to register 200 participants for a career fair.
+- Image tools showing stereotyped pictures of 'a doctor' or 'a farmer in Africa'.
+- An AI chatbot that promised a free delivery the business does not offer.
+
+### 11. Tools and resources
+- AI chat assistant, Google Sheets, Google Forms
+- Screenshots of a no-code automation tool (optional)
+- Workflow map template and prompt set template
+- Free tools only: Google Sheets and Forms (free with a Google account); workflow maps on paper; automation shown through screenshots - no paid tool is needed.
+
+### 12. Assessment questions and activities
+| Question or task | What a good answer shows |
+|---|---|
+| What are the three parts of an automation? | Trigger, action, human check. |
+| Name two tasks where AI should not make the final decision. | Hiring, credit, pricing without data, medical, legal, safeguarding decisions. |
+| What does the Kenya Data Protection Act 2019 require when handling personal data? | Lawful, fair and transparent processing for a clear purpose, limited to what is needed, kept secure; people have rights over their data. |
+| Give one example of AI bias and how to reduce it. | Stereotyped images or unfair screening; ask for diversity, check outputs, use human review, use better data. |
+| How do you anonymise data before using AI? | Remove or replace names, numbers, IDs, addresses and any detail that identifies a person. |
+
+### 13. Expected learner outputs
+- Workflow map with H, AI and A steps, data points and human checks
+- Reusable prompt set (tested)
+- Updated prompt library
+
+### 14. Facilitator instructions
+**Before the session**
+- Prepare a sample spreadsheet, a sample anonymised customer message list and a working Google Form and Sheet.
+- Read the summary of the Kenya Data Protection Act 2019 from the Office of the Data Protection Commissioner so you can answer basic questions; do not give legal advice.
+
+**During the session**
+- Keep automation conceptual and safe - learners should not connect real customer accounts or business data in class.
+- Encourage learners to choose workflows from their real lives or project users.
+
+**Inclusion and safeguarding**
+- Learners must not use real personal data in exercises; use anonymised or invented data.
+- Bias discussions can touch on identity; keep them respectful and evidence-based.
+- Shared devices and low data: pair or group learners on one device and rotate the typing role each task; learners without a device or data follow the shared screen and record their work on paper or later on programme Wi-Fi. Never require a paid tool or plan, or an account that needs personal data the learner does not want to give.
+
+**After the session**
+- Review workflow maps for privacy issues before learners use them in their projects.
+- Record attendance.
+
+### 15. Homework and follow-up
+- Finalise your project plan and gather everything you need for the build (content, information from your user, prompt library).
+- Arrange for one real user to test your solution during or right after session 7. If no real user is available, or testing would involve their personal data, test with a classmate using invented sample data.
+
+### 16. How this differs from other tracks
+- Entrepreneurship & Business teaches business processes and decisions; AI Tools shows where AI and automation can support them and where humans must decide.
+- Digital Marketing uses WhatsApp Business features as marketing tools; AI Tools uses them as examples of simple automation.
+
+---
+
+## Session 7 (Week 4, 120 minutes): AI project build and testing
+
+*Build an AI-assisted solution for a real brief, evaluate it with the AI quality checklist, test it with a real user and prepare a demonstration.*
+
+### 1. Learning purpose
+Learners combine everything from the track into one practical AI-assisted solution for a real person, business or group. They build it, evaluate it for accuracy, usefulness, safety, privacy and bias, test it with a real user, revise it and prepare to demonstrate it in the showcase.
+
+### 2. Learning objectives
+By the end of the session learners can:
+- Define the problem, user, AI role and success test for the project
+- Build a working AI-assisted solution using a documented prompt set and tools
+- Evaluate the solution with the AI quality checklist and fix problems
+- Test the solution with a real user and record their feedback
+- Prepare a three-minute demonstration with an AI-use disclosure
+
+### 3. Topics and subtopics
+- **Designing an AI-assisted solution**
+    - Problem and user
+    - What AI does and what humans do
+    - Tools and prompts
+    - Success test - how you will know it works
+- **Building and documenting**
+    - Prompt set with placeholders
+    - Example inputs and outputs
+    - Instructions for the user
+- **Testing and evaluating AI outputs**
+    - AI quality checklist - accuracy, usefulness, safety, privacy, bias, disclosure
+    - User testing
+    - Revising based on evidence
+- **Preparing a demonstration**
+    - Demo structure
+    - Showing before and after
+    - Explaining responsible choices
+
+### 4. Time allocation
+| Time | Minutes | Segment | Type |
+|---|---|---|---|
+| 0:00–0:10 | 10 | Project check-in | Introduction and recap |
+| 0:10–0:25 | 15 | Designing your solution | Main lesson |
+| 0:25–1:05 | 40 | Build | Practical exercise |
+| 1:05–1:10 | 5 | Stretch break | Stretch break |
+| 1:10–1:30 | 20 | Evaluate and user-test | Assessment and feedback |
+| 1:30–1:50 | 20 | Revise and prepare the demonstration | Practical exercise |
+| 1:50–2:00 | 10 | Showcase briefing and homework | Conclusion and assignment |
+| **Total** | **120** | Equals the timetable (120 min) | |
+
+### 5. Step-by-step teaching content
+#### 0:00–0:10 · Project check-in (10 min, introduction and recap)
+*Confirm your project brief and success test.*
+
+1. Learners state their brief in one sentence: 'I am building [solution] for [user] to [solve problem], and it works if [success test].'
+2. Project types to choose from: a study resource pack (explanations, quizzes, summaries) for a group of learners; a customer-service prompt kit and FAQ for a small business; an AI-assisted information or marketing pack for a community group; a simple automated workflow (form, sheet, AI-drafted replies with human review).
+
+#### 0:10–0:25 · Designing your solution (15 min, main lesson)
+*Plan the solution using the project design canvas.*
+
+1. Explain the project design canvas: user and problem; what AI does; what the human does; tools; prompts; data used and how it is protected; risks and checks; success test.
+2. Walk through a worked example - 'Customer reply kit for a Kitengela hardware shop': AI drafts answers from the owner's price list and policies; the owner approves answers; quick replies are saved in WhatsApp Business; success test - the owner answers 10 common questions in under 10 minutes with no wrong information.
+3. Learners complete their canvas in 8 minutes; the facilitator checks the success tests are specific.
+
+#### 0:25–1:05 · Build (40 min, practical exercise)
+*Build your AI-assisted solution and document the prompts and outputs.*
+
+1. Learners build the solution using their tools and prompt library. They document the final prompt set, example inputs and outputs, and short instructions for the user.
+2. Checkpoint at 20 minutes: each learner shows the facilitator one working output and one check they have done.
+3. The facilitator circulates, unblocking technical problems and asking 'how do you know this is correct?' and 'where is the human check?'.
+4. Learners who finish early add a second feature or improve the user instructions.
+
+#### 1:05–1:10 · Stretch break (5 min, stretch break)
+*A five-minute stretch and movement break (seated option available).*
+
+1. Invite everyone to stand, stretch, walk or drink water for five minutes; offer a seated option for anyone who prefers or needs it.
+2. Restart on time with a one-line reminder of where the session is and what comes next.
+
+#### 1:10–1:30 · Evaluate and user-test (20 min, assessment and feedback)
+*Score your solution with the AI quality checklist and test it with a real user or a peer.*
+
+1. Learners score their solution against the AI quality checklist (1 to 3 each): accuracy, usefulness, clarity, safety and appropriateness, privacy, bias and fairness, disclosure. Anything scoring 1 must be fixed.
+2. Learners test the solution with a real user (by phone, in person or via WhatsApp) or, if not possible during the session, with a peer playing the user, and record what worked, what confused them and what they would change. Real user testing must be completed before session 8.
+
+#### 1:30–1:50 · Revise and prepare the demonstration (20 min, practical exercise)
+*Fix the main problems and prepare a three-minute demo.*
+
+1. Learners fix the top two problems from the checklist and test.
+2. They prepare the demo: self-pitch introduction (15 seconds), the problem and user, a live or recorded demonstration of the solution, before and after (time saved or quality improved), checks and responsible choices, user feedback, what next. Ends with the disclosure line.
+3. Partners watch a 1-minute run-through and give one improvement.
+
+#### 1:50–2:00 · Showcase briefing and homework (10 min, conclusion and assignment)
+*Learn how the showcase works and what to submit.*
+
+1. Explain the showcase format (3 minutes demo, 2 minutes questions), the rubric and the submission (solution files, prompt set, checklist, user feedback, disclosure).
+2. Set the homework.
+
+### 6. Practical demonstrations
+- **Worked project example**
+    1. Walk through the completed design canvas for the hardware shop reply kit and show two outputs with the owner's corrections.
+
+### 7. Guided exercises
+- **Project design canvas:** Complete the canvas - user, problem, AI role, human role, tools, prompts, data protection, risks and checks, success test.
+
+### 8. Individual activities
+- **Build the solution:** Build and document the solution - prompt set, example inputs and outputs, user instructions.
+- **Quality checklist:** Score the solution on each checklist item and fix anything scoring 1.
+
+### 9. Group activities
+- **Demo run-through:** Run a 1-minute version of your demo for a partner and get one improvement.
+
+### 10. Real-world examples (Kenya)
+- A customer reply kit for a Kitengela hardware shop.
+- A KCSE revision pack with AI-generated quizzes checked against the syllabus by a teacher.
+- An AI-assisted information pack for a Kisumu community health volunteer group, checked by a health worker before use.
+- A registration and reminder workflow for a youth sports tournament in Nyeri.
+
+### 11. Tools and resources
+- AI tools from the track, Google Forms and Sheets, WhatsApp Business (as needed)
+- Project design canvas, AI quality checklist and demo template
+- User feedback form
+- No paid subscription needed: a solution can be a prompt set with instructions in a free document, a Google Form, or a WhatsApp message flow; build in pairs on a shared device if needed.
+
+### 12. Assessment questions and activities
+| Question or task | What a good answer shows |
+|---|---|
+| AI quality checklist completed for the solution. | Each criterion scored; items scored 1 fixed or explained. |
+| What is your success test, and did the solution pass? | A specific, observable test with an honest result. |
+| Where is the human check in your solution, and why there? | At points involving facts, money, personal data or decisions affecting people. |
+
+### 13. Expected learner outputs
+- Completed project design canvas
+- Working AI-assisted solution with documented prompt set and user instructions
+- AI quality checklist and user test record
+- Draft three-minute demonstration
+
+### 14. Facilitator instructions
+**Before the session**
+- Review project plans before the session and prepare to unblock common technical issues.
+- Prepare the design canvas, checklist and demo template.
+- Set the session 8 room plan from the track group size (up to 12 - one room; 13 to 24 - two rooms; 25 to 36 - three rooms, or two live rooms plus a recorded-questions room) and line up co-facilitators and peer panels.
+
+**During the session**
+- Protect the 45-minute build time; keep instructions short.
+- Push for real users and real problems; a polished solution nobody needs scores lower than a simple useful one.
+
+**Inclusion and safeguarding**
+- Projects must not use real personal data without consent; anonymise or use invented data.
+- Projects giving health, legal or financial information must be checked by a qualified person before anyone relies on them, and must say so.
+- Consent and privacy: before using an identifiable person (face, voice or name), a photograph of someone, or a real business's name, logo, prices, customer details or results, the learner gets permission from that person or owner - in writing (a WhatsApp message is enough) for anything shown outside the class. Never children. Learners who cannot or do not wish to publish publicly use the private or simulated option, which is assessed with the same rubric and never marked down.
+- Shared devices and low data: pair or group learners on one device and rotate the typing role each task; learners without a device or data follow the shared screen and record their work on paper or later on programme Wi-Fi. Never require a paid tool or plan, or an account that needs personal data the learner does not want to give.
+
+**After the session**
+- Check every learner has arranged a real user test before session 8.
+- Record attendance.
+
+### 15. Homework and follow-up
+- Complete the real user test and record the feedback.
+- Finish your demonstration and practise it twice within three minutes.
+- Upload your solution files, prompt set, checklist and user feedback to DIRA LEARN.
+- If you are presenting by recording (a large group, or you cannot present live), record your 3-minute solution presentation - video, or a voice note with slides for low data - and upload it to DIRA LEARN by the day before session 8.
+
+### 16. How this differs from other tracks
+- All tracks build their final project in session 7. The AI Tools project is judged on usefulness, responsible AI use and evaluation, not on design polish.
+
+---
+
+## Session 8 (Week 4, 120 minutes): AI tools showcase
+
+*Demonstrate your AI-assisted solution, explain your responsible choices, give and receive feedback, pitch yourself and plan your next 30 days.*
+
+### 1. Learning purpose
+Learners demonstrate practical AI capability by showing a working AI-assisted solution, explaining how they checked it and used AI responsibly, and answering questions. They learn to present the project as portfolio evidence, practise professional behaviour and leave with a 30-day plan for using AI skills in study, work or business.
+
+### 2. Learning objectives
+By the end of the session learners can:
+- Demonstrate an AI-assisted solution clearly in three minutes
+- Explain the human checks, privacy protections and disclosure in the solution
+- Report user feedback and evaluation results honestly
+- Give and receive feedback professionally using the rubric
+- Pitch themselves and the project as portfolio evidence
+- Write a 30-day plan for using AI skills responsibly
+
+### 3. Topics and subtopics
+- **Demonstrating an AI-assisted solution**
+    - Demo structure
+    - Live versus recorded demos
+    - Answering questions about accuracy and responsibility
+- **Pitching yourself and your work**
+    - AI skills employers value (prompting, verification, workflow design)
+    - Turning the project into a case study
+    - Talking honestly about AI use
+- **Professional behaviour and workplace readiness**
+    - Showcase etiquette
+    - Receiving critical feedback
+    - Following up with your user
+    - Pathways - jobs, freelancing, using AI in your own business
+- **Next steps**
+    - 30-day plan
+    - Keeping up with AI changes safely
+
+### 4. Time allocation
+| Time | Minutes | Segment | Type |
+|---|---|---|---|
+| 0:00–0:10 | 10 | Showcase set-up and expectations | Introduction and recap |
+| 0:10–0:40 | 30 | Demonstrations and questions - block 1 | Assessment and feedback |
+| 0:40–0:45 | 5 | Stretch break | Stretch break |
+| 0:45–1:15 | 30 | Demonstrations and questions - block 2 | Assessment and feedback |
+| 1:15–1:25 | 10 | Feedback round and responsible AI reflection | Group activity |
+| 1:25–1:40 | 15 | Pitching yourself and workplace readiness | Main lesson |
+| 1:40–1:55 | 15 | 30-day action plan | Practical exercise |
+| 1:55–2:00 | 5 | Celebration and close | Conclusion and assignment |
+| **Total** | **120** | Equals the timetable (120 min) | |
+
+### 5. Step-by-step teaching content
+#### 0:00–0:10 · Showcase set-up and expectations (10 min, introduction and recap)
+*Learn the showcase order, rubric and etiquette.*
+
+1. Welcome learners and guests (users, DIRA staff, mentors, employers). Thank users who tested solutions.
+2. Share the rubric: problem and user (15%), solution works and is useful (25%), evaluation and human checks (25%), privacy, fairness and disclosure (20%), presentation and answers (15%).
+3. Etiquette and peer-feedback assignments: each learner gives written feedback to two presenters.
+
+#### 0:10–0:40 · Demonstrations and questions - block 1 (30 min, assessment and feedback)
+*The first six presenters in each room demonstrate and answer questions; give rubric feedback to your two assigned peers.*
+
+1. Run the demonstrations with the session 8 room plan in the facilitator instructions: the first six demonstrators in each room go in this block, each with 3 minutes plus 2 minutes of questions.
+2. Learners demonstrate in order, 3 minutes each plus 2 minutes of questions. Recorded demos are allowed if the internet fails.
+3. Ask at least one question per presenter, such as: 'Show me an output that was wrong and how you caught it', 'What personal data does this touch and how is it protected?', 'What would happen if the AI tool changed or became paid?', 'Would your user keep using it? Why?'
+4. Score with the rubric and note one strength and one improvement.
+
+#### 0:40–0:45 · Stretch break (5 min, stretch break)
+*A five-minute stretch and movement break (seated option available).*
+
+1. Invite everyone to stand, stretch, walk or drink water for five minutes; offer a seated option for anyone who prefers or needs it.
+2. Restart on time with a one-line reminder of where the session is and what comes next.
+
+#### 0:45–1:15 · Demonstrations and questions - block 2 (30 min, assessment and feedback)
+*The next six presenters in each room demonstrate; recorded presenters answer their live questions.*
+
+1. The remaining demonstrators in each live room (7 to 12) go now, with the same timer, rubric and question approach as block 1.
+2. In a recorded-questions room, do not replay the recordings (the panel scored them before the session); give each recorded presenter 2 minutes of live questions about their AI solution.
+3. Each room's panel hands its completed AI solution rubric sheets to the room facilitator before the feedback round.
+
+#### 1:15–1:25 · Feedback round and responsible AI reflection (10 min, group activity)
+*Share feedback and reflect on what responsible AI use looked like in practice.*
+
+1. Learners give their written feedback to their two assigned presenters.
+2. Reflection: learners revisit the group AI use code from session 3. Which rules were easy to follow, which were hard, and would they change any?
+3. Facilitator summarises patterns in strong projects (real user, clear human checks, honest evaluation).
+
+#### 1:25–1:40 · Pitching yourself and workplace readiness (15 min, main lesson)
+*Turn your project into a portfolio case study and practise pitching your AI skills.*
+
+1. Case study format: problem, user, what I built, how I checked it, results and feedback, what I learned. Add screenshots and the disclosure.
+2. Pitch formula with proof: 'I am Faith from Kericho. I use AI tools responsibly to save time on routine work. I built a reply kit for a hardware shop that cut answering time from 30 to 10 minutes with zero wrong prices. I am looking for an administrative or digital assistant role.'
+3. Employers value people who can use AI and check it - prompting, verification, workflow design and honesty about AI use. Never claim AI work as entirely your own; explain your role.
+4. Pathways: office and administrative roles, customer service, digital assistants, freelance support work (Ajira Digital provides information on online work), and using AI in your own business. Avoid scams promising easy money from 'AI jobs' for a fee.
+5. Learners practise their pitch once in pairs.
+
+#### 1:40–1:55 · 30-day action plan (15 min, practical exercise)
+*Write your 30-day plan for using AI skills.*
+
+1. Learners complete the 30-day plan: main goal, four weekly actions (for example week 1 finish the case study, week 2 offer the solution to two more users, week 3 learn one new AI tool safely, week 4 apply for two roles), a measure of success, an accountability partner and one risk with a plan.
+2. Learners share their goal with their accountability partner.
+
+#### 1:55–2:00 · Celebration and close (5 min, conclusion and assignment)
+*Celebrate the AI solutions you built and learn what happens after the programme.*
+
+1. Celebrate each learner's solution in one sentence.
+2. Explain how to submit the final AI solution and its verification note in DIRA LEARN, how results and certificates follow the programme's rules, and how alumni can keep sharing useful prompts and tools.
+
+### 6. Practical demonstrations
+- **Model demonstration**
+    1. Before the session, share a recorded 3-minute example demo (the hardware shop reply kit) as a reference. Do not use showcase time for it.
+
+### 7. Guided exercises
+- **AI project case study:** Write a one-page case study - problem, user, solution, checks, results, learning, disclosure.
+
+### 8. Individual activities
+- **Demonstration:** Demonstrate your solution in three minutes and answer questions for two minutes.
+- **30-day plan:** Complete the plan with goal, weekly actions, measure, accountability partner and risk.
+
+### 9. Group activities
+- **Peer feedback:** Give rubric-based written feedback to two assigned presenters.
+- **Pitch practice:** Practise your self-pitch with your project as proof.
+
+### 10. Real-world examples (Kenya)
+- A learner demonstrating a revision quiz pack used by 15 Form Four students in Murang'a.
+- A learner showing how a youth tournament registration workflow saved organisers hours of manual entry.
+- A learner using the project as proof in an application for an administrative assistant role.
+
+### 11. Tools and resources
+- Learners' solutions (live or recorded), showcase rubric, feedback cards or DIRA LEARN
+- Timer, 30-day plan template and case study template
+- Low-data showcase: a recorded demo can be a screen recording or a voice note with screenshots; play recordings from downloaded files, not streams.
+
+### 12. Assessment questions and activities
+| Question or task | What a good answer shows |
+|---|---|
+| Demonstration scored with the AI showcase rubric. | Use rubric descriptors; honest evaluation and responsible choices score highly even if the solution is simple. |
+| Show one AI output that was wrong and explain how you caught and fixed it. | A concrete example with the checking method. |
+| Deliver your pitch with your project as proof. | Who, skill, proof with a number or result, ask; honest about AI's role. |
+
+### 13. Expected learner outputs
+- Demonstrated AI-assisted solution (final project) with rubric score and feedback
+- One-page AI project case study with disclosure
+- 30-day action plan
+- Written feedback given to two peers
+
+### 14. Facilitator instructions
+**Before the session**
+- Publish the demo order and test screen sharing; ask learners to have a recorded backup.
+- Invite users and guests; brief guests on respectful questions and safeguarding expectations.
+- Confirm the room plan: count the learners in the track group, book the rooms and co-facilitators, brief the peer panels, and publish each room's presenter order and the list of recorded presenters by the end of session 7.
+
+**During the session**
+- Keep strict time; prioritise questions about checking and responsibility.
+- Session 8 room plan - Room plan (set in session 7 from the track group size; the session is never extended): up to 12 learners - one room; 13 to 24 - two rooms in parallel; 25 to 36 - three rooms, or two live rooms plus one recorded-questions room. Each live room takes at most 12 presenters: 6 in each 30-minute block, 3 minutes to present and 2 minutes of questions each.
+- Every room has a facilitator or briefed co-facilitator (another trainer, a mentor or DIRA staff member who knows the rubric and the safeguarding expectations) and a peer panel of two learners who present in the other block. All rooms use the same rubric.
+- Recorded option: learners in a recorded-questions room, and anyone who cannot present live (absence, connection problems, anxiety, or the privacy option), submit a 3-minute recording - video, or a voice note with slides for low data - by the day before session 8. The panel scores it in advance with the same rubric; in session 8 each recorded presenter answers 2 minutes of live questions (12 per block). If more learners need the recorded option than one room can take, the panel sends written questions and the learner answers them in DIRA LEARN.
+- Timekeeping: a visible timer with a 30-second warning; stop at 3 minutes. If a block runs late, cut questions to 1 minute - do not extend the session.
+
+**Inclusion and safeguarding**
+- Learners unable to present live can submit a recorded demo according to the programme's rules.
+- Guests must not contact learners privately outside programme channels.
+- Shared devices and low data: pair or group learners on one device and rotate the typing role each task; learners without a device or data follow the shared screen and record their work on paper or later on programme Wi-Fi. Never require a paid tool or plan, or an account that needs personal data the learner does not want to give.
+
+**After the session**
+- Enter rubric scores and feedback in DIRA LEARN grading.
+- Record attendance.
+
+### 15. Homework and follow-up
+- Submit the final solution, case study and 30-day plan in DIRA LEARN.
+- Thank your user and share what you changed based on their feedback.
+
+### 16. How this differs from other tracks
+- Every track ends with the same pitch-yourself and workplace-readiness segment; the AI rubric weights evaluation and responsible use.
+
+---

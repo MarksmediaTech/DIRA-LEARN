@@ -1,0 +1,623 @@
+{
+    "tracks": [
+        {
+            "code": "digital",
+            "name": "Digital Skills",
+            "focus": "Everyday digital confidence and digital marketing: workspaces, documents and spreadsheets, online presence, social media, graphics and copywriting, advertising, SEO and measuring results, ending in a portfolio project.",
+            "position": 1
+        },
+        {
+            "code": "ai",
+            "name": "AI Tools",
+            "focus": "Work smarter with AI: how AI tools work, responsible prompting, AI for content, checking AI outputs and a final AI project.",
+            "position": 2
+        },
+        {
+            "code": "content",
+            "name": "Content Creation",
+            "focus": "Tell stories people stop for: planning, photo and video, editing and design, ending in a portfolio project.",
+            "position": 3
+        },
+        {
+            "code": "entrepreneurship",
+            "name": "Entrepreneurship & Business",
+            "focus": "Customer problems, business models, basic finance, marketing and pitching.",
+            "position": 4
+        }
+    ],
+    "sessions": [
+        {
+            "title": "Self-leadership, confidence and wellbeing",
+            "track": null,
+            "source": "curriculum_docx",
+            "topics": [
+            ],
+            "week_no": 1,
+            "activities": [
+                "Welcome and learning agreement",
+                "Icebreaker: strengths and interests",
+                "Values, confidence and self-leadership mini-workshop",
+                "Personal strengths map and goal setting",
+                "Wellbeing and resilience",
+                "Pair feedback and accountability partner",
+                "Reflection and exit ticket"
+            ],
+            "objectives": [
+                "Describe personal strengths, interests and values",
+                "Set one realistic four-week learning goal",
+                "Identify habits that support wellbeing, resilience and respectful participation",
+                "Understand programme expectations, support routes and safeguarding boundaries"
+            ],
+            "session_no": 1,
+            "description": null,
+            "is_approved": false,
+            "expected_output": "Personal strengths map and a four-week learning goal",
+            "assessment_notes": "Baseline self-assessment, participation observation, completed goal card",
+            "duration_minutes": 110
+        },
+        {
+            "title": "Digital foundations, AI awareness and communication",
+            "track": null,
+            "source": "curriculum_docx",
+            "topics": [
+            ],
+            "week_no": 1,
+            "activities": [
+                "Digital confidence pulse check",
+                "Digital foundations and professional online conduct",
+                "AI awareness: capabilities, limitations, verification, privacy",
+                "Prompt practice",
+                "Communication practice",
+                "Online safety scenarios",
+                "Reflection, core module check and track selection confirmation"
+            ],
+            "objectives": [
+                "Identify essential digital practices for learning and work",
+                "Explain what AI tools can help with and where human judgement is required",
+                "Use a simple prompt to support a learning or communication task",
+                "Demonstrate clear, respectful communication and basic online safety"
+            ],
+            "session_no": 2,
+            "description": null,
+            "is_approved": false,
+            "expected_output": "Short professional introduction or learning plan supported by a digital tool, reviewed and improved",
+            "assessment_notes": "Short knowledge check, observed communication practice, digital safety checklist",
+            "duration_minutes": 115
+        },
+        {
+            "title": "Digital productivity and file management",
+            "track": "digital",
+            "source": "website_alignment",
+            "topics": [
+            ],
+            "week_no": 2,
+            "activities": [
+                "Organise a project folder",
+                "Draft a one-page profile",
+                "Build a short presentation"
+            ],
+            "objectives": [
+            ],
+            "session_no": 3,
+            "description": "Use common digital workspaces, organise files and create a simple profile.",
+            "is_approved": false,
+            "expected_output": "Digital folder, profile and presentation",
+            "assessment_notes": "DRAFT: aligned to the DIRA websites (four tracks, 8 sessions over 4 weeks, portfolio project). Session detail needs trainer and director approval.",
+            "duration_minutes": 120
+        },
+        {
+            "title": "Documents, spreadsheets and presentations",
+            "track": "digital",
+            "source": "website_alignment",
+            "topics": [
+            ],
+            "week_no": 2,
+            "activities": [
+                "Format a document",
+                "Build a simple budget spreadsheet or tracker",
+                "Map a routine task and spot where a tool could help",
+                "Design a three-slide presentation"
+            ],
+            "objectives": [
+            ],
+            "session_no": 4,
+            "description": "Create clear documents, simple spreadsheets and presentations for study, work or a business.",
+            "is_approved": false,
+            "expected_output": "One document, one spreadsheet and one presentation",
+            "assessment_notes": "DRAFT: aligned to the DIRA websites (four tracks, 8 sessions over 4 weeks, portfolio project). Session detail needs trainer and director approval.",
+            "duration_minutes": 120
+        },
+        {
+            "title": "Online presence and introduction to digital marketing",
+            "track": "digital",
+            "source": "website_alignment",
+            "topics": [
+                "Digital footprint and online safety",
+                "Introduction to digital marketing",
+                "Social media marketing (Facebook, Instagram, TikTok, LinkedIn)",
+                "Content planning and creation"
+            ],
+            "week_no": 3,
+            "activities": [
+                "Search yourself and review the results",
+                "Improve a profile",
+                "Channel overview and customer profile"
+            ],
+            "objectives": [
+            ],
+            "session_no": 5,
+            "description": "Understand your digital footprint, build a professional online presence and see how digital marketing channels work.",
+            "is_approved": false,
+            "expected_output": "Improved online profile and a two-week content calendar",
+            "assessment_notes": "DRAFT: aligned to the DIRA websites (4 tracks, 8 sessions over 4 weeks, portfolio project). Digital marketing topics merged into Digital Skills. Session detail needs trainer and director approval.",
+            "duration_minutes": 120
+        },
+        {
+            "title": "Marketing graphics, copywriting and WhatsApp Business",
+            "track": "digital",
+            "source": "website_alignment",
+            "topics": [
+                "Canva for marketing graphics",
+                "Marketing copywriting, captions and calls to action",
+                "WhatsApp Business"
+            ],
+            "week_no": 3,
+            "activities": [
+                "Design a post in a free design tool",
+                "Write captions and calls to action",
+                "WhatsApp Business profile set-up"
+            ],
+            "objectives": [
+            ],
+            "session_no": 6,
+            "description": "Create simple marketing graphics, write captions with clear calls to action and set up a business profile for customers.",
+            "is_approved": false,
+            "expected_output": "Three posts with captions and a WhatsApp Business profile plan",
+            "assessment_notes": "DRAFT: aligned to the DIRA websites (4 tracks, 8 sessions over 4 weeks, portfolio project). Digital marketing topics merged into Digital Skills. Session detail needs trainer and director approval.",
+            "duration_minutes": 120
+        },
+        {
+            "title": "Digital project build: advertising, search and measuring results",
+            "track": "digital",
+            "source": "website_alignment",
+            "topics": [
+                "Digital advertising fundamentals",
+                "SEO fundamentals",
+                "Marketing analytics and measuring campaign performance",
+                "Developing a practical digital marketing strategy"
+            ],
+            "week_no": 4,
+            "activities": [
+                "Choose a job, business or community brief",
+                "Draft the project and its measures",
+                "Peer test and revise"
+            ],
+            "objectives": [
+            ],
+            "session_no": 7,
+            "description": "Build a practical digital marketing project for a real brief and decide how to measure it.",
+            "is_approved": false,
+            "expected_output": "Digital marketing portfolio project and three-minute walk-through",
+            "assessment_notes": "DRAFT: aligned to the DIRA websites (4 tracks, 8 sessions over 4 weeks, portfolio project). Digital marketing topics merged into Digital Skills. Session detail needs trainer and director approval.",
+            "duration_minutes": 120
+        },
+        {
+            "title": "Digital skills showcase",
+            "track": "digital",
+            "source": "website_alignment",
+            "topics": [
+            ],
+            "week_no": 4,
+            "activities": [
+                "Project demos",
+                "Questions",
+                "Peer feedback",
+                "Reflection"
+            ],
+            "objectives": [
+            ],
+            "session_no": 8,
+            "description": "Demonstrate practical digital and marketing capability and explain the choices made.",
+            "is_approved": false,
+            "expected_output": "Final digital portfolio project and 30-day action plan",
+            "assessment_notes": "DRAFT: aligned to the DIRA websites (4 tracks, 8 sessions over 4 weeks, portfolio project). Digital marketing topics merged into Digital Skills. Session detail needs trainer and director approval.",
+            "duration_minutes": 120
+        },
+        {
+            "title": "AI tools: what they can and cannot do",
+            "track": "ai",
+            "source": "website_alignment",
+            "topics": [
+            ],
+            "week_no": 2,
+            "activities": [
+                "Try an AI assistant on three tasks",
+                "Compare outputs",
+                "Discuss limits, privacy and verification"
+            ],
+            "objectives": [
+            ],
+            "session_no": 3,
+            "description": "Meet common AI assistants; use them to draft, summarise and organise, and know where human judgement is needed.",
+            "is_approved": false,
+            "expected_output": "Three AI-assisted tasks with notes on what needed human checking",
+            "assessment_notes": "DRAFT: aligned to the DIRA websites (four tracks, 8 sessions over 4 weeks, portfolio project). Session detail needs trainer and director approval.",
+            "duration_minutes": 120
+        },
+        {
+            "title": "AI tools and responsible prompting",
+            "track": "ai",
+            "source": "website_alignment",
+            "topics": [
+            ],
+            "week_no": 2,
+            "activities": [
+                "Prompt comparison",
+                "Prompt lab",
+                "Fact-checking",
+                "Privacy discussion"
+            ],
+            "objectives": [
+            ],
+            "session_no": 4,
+            "description": "Write clear prompts; review AI outputs for accuracy, bias, privacy and relevance.",
+            "is_approved": false,
+            "expected_output": "AI-assisted work sample with a note explaining verification and edits",
+            "assessment_notes": "DRAFT: aligned to the DIRA websites (four tracks, 8 sessions over 4 weeks, portfolio project). Session detail needs trainer and director approval.",
+            "duration_minutes": 120
+        },
+        {
+            "title": "AI for content and images",
+            "track": "ai",
+            "source": "website_alignment",
+            "topics": [
+            ],
+            "week_no": 3,
+            "activities": [
+                "Analyse examples",
+                "Create a social post or poster with AI support",
+                "Peer review"
+            ],
+            "objectives": [
+            ],
+            "session_no": 5,
+            "description": "Plan audience-focused content with AI support, apply visual hierarchy and check accuracy and credit.",
+            "is_approved": false,
+            "expected_output": "One AI-assisted content asset with a verification note",
+            "assessment_notes": "DRAFT: aligned to the DIRA websites (four tracks, 8 sessions over 4 weeks, portfolio project). Session detail needs trainer and director approval.",
+            "duration_minutes": 120
+        },
+        {
+            "title": "AI for everyday tasks and simple automation",
+            "track": "ai",
+            "source": "website_alignment",
+            "topics": [
+            ],
+            "week_no": 3,
+            "activities": [
+                "Map a routine task",
+                "Build a reusable prompt set",
+                "Identify automation opportunities and human checks"
+            ],
+            "objectives": [
+            ],
+            "session_no": 6,
+            "description": "Use AI to save time on routine work (summaries, drafts, plans) while keeping human checks in place.",
+            "is_approved": false,
+            "expected_output": "Reusable prompt set and a short workflow note",
+            "assessment_notes": "DRAFT: aligned to the DIRA websites (four tracks, 8 sessions over 4 weeks, portfolio project). Session detail needs trainer and director approval.",
+            "duration_minutes": 120
+        },
+        {
+            "title": "AI project build and testing",
+            "track": "ai",
+            "source": "website_alignment",
+            "topics": [
+            ],
+            "week_no": 4,
+            "activities": [
+                "Choose a job, business or community brief",
+                "Build a mini campaign or resource pack",
+                "Peer test and revise"
+            ],
+            "objectives": [
+            ],
+            "session_no": 7,
+            "description": "Combine AI tools and content skills in one output for a real brief.",
+            "is_approved": false,
+            "expected_output": "AI portfolio project and three-minute demonstration",
+            "assessment_notes": "DRAFT: aligned to the DIRA websites (four tracks, 8 sessions over 4 weeks, portfolio project). Session detail needs trainer and director approval.",
+            "duration_minutes": 120
+        },
+        {
+            "title": "AI tools showcase",
+            "track": "ai",
+            "source": "website_alignment",
+            "topics": [
+            ],
+            "week_no": 4,
+            "activities": [
+                "Project demos",
+                "Questions",
+                "Peer feedback",
+                "Reflection"
+            ],
+            "objectives": [
+            ],
+            "session_no": 8,
+            "description": "Demonstrate practical capability and explain responsible tool choices.",
+            "is_approved": false,
+            "expected_output": "Final AI portfolio project and next-step commitment",
+            "assessment_notes": "DRAFT: aligned to the DIRA websites (four tracks, 8 sessions over 4 weeks, portfolio project). Session detail needs trainer and director approval.",
+            "duration_minutes": 120
+        },
+        {
+            "title": "Content ideas and storytelling",
+            "track": "content",
+            "source": "website_alignment",
+            "topics": [
+            ],
+            "week_no": 2,
+            "activities": [
+                "Audience and purpose canvas",
+                "Story structure",
+                "Storyboard one short piece"
+            ],
+            "objectives": [
+            ],
+            "session_no": 3,
+            "description": "Plan content for a real audience and shape a simple story with a hook, a middle and an ending.",
+            "is_approved": false,
+            "expected_output": "Content idea sheet and storyboard",
+            "assessment_notes": "DRAFT: aligned to the DIRA websites (four tracks, 8 sessions over 4 weeks, portfolio project). Session detail needs trainer and director approval.",
+            "duration_minutes": 120
+        },
+        {
+            "title": "Photography and mobile video basics",
+            "track": "content",
+            "source": "website_alignment",
+            "topics": [
+            ],
+            "week_no": 2,
+            "activities": [
+                "Framing and light practice",
+                "Shoot a short clip on a phone",
+                "Peer review of shots"
+            ],
+            "objectives": [
+            ],
+            "session_no": 4,
+            "description": "Capture clear photos and short video on a phone: framing, light and sound.",
+            "is_approved": false,
+            "expected_output": "Five photos and one short clip",
+            "assessment_notes": "DRAFT: aligned to the DIRA websites (four tracks, 8 sessions over 4 weeks, portfolio project). Session detail needs trainer and director approval.",
+            "duration_minutes": 120
+        },
+        {
+            "title": "Editing photos and video",
+            "track": "content",
+            "source": "website_alignment",
+            "topics": [
+            ],
+            "week_no": 3,
+            "activities": [
+                "Photo editing basics",
+                "Video cutting and captions",
+                "Export for different platforms"
+            ],
+            "objectives": [
+            ],
+            "session_no": 5,
+            "description": "Edit with free tools: cut and trim, add captions and audio, and export for different platforms.",
+            "is_approved": false,
+            "expected_output": "One edited short video",
+            "assessment_notes": "DRAFT: aligned to the DIRA websites (four tracks, 8 sessions over 4 weeks, portfolio project). Session detail needs trainer and director approval.",
+            "duration_minutes": 120
+        },
+        {
+            "title": "Design for content",
+            "track": "content",
+            "source": "website_alignment",
+            "topics": [
+                "Visual hierarchy",
+                "Consistent branding",
+                "Consent and credit for people, images and music"
+            ],
+            "week_no": 3,
+            "activities": [
+                "Analyse examples",
+                "Create a post and a poster",
+                "Peer feedback"
+            ],
+            "objectives": [
+            ],
+            "session_no": 6,
+            "description": "Use free design tools to apply visual hierarchy, consistent branding and readable text.",
+            "is_approved": false,
+            "expected_output": "Branded post and poster",
+            "assessment_notes": "DRAFT: aligned to the DIRA websites (four tracks, 8 sessions over 4 weeks, portfolio project). Session detail needs trainer and director approval.",
+            "duration_minutes": 120
+        },
+        {
+            "title": "Portfolio project build",
+            "track": "content",
+            "source": "website_alignment",
+            "topics": [
+            ],
+            "week_no": 4,
+            "activities": [
+                "Choose a brief",
+                "Produce the piece",
+                "Peer test and revise"
+            ],
+            "objectives": [
+            ],
+            "session_no": 7,
+            "description": "Produce a piece of content for a real brief (a business, a cause or a community).",
+            "is_approved": false,
+            "expected_output": "Portfolio project and three-minute walk-through",
+            "assessment_notes": "DRAFT: aligned to the DIRA websites (four tracks, 8 sessions over 4 weeks, portfolio project). Session detail needs trainer and director approval.",
+            "duration_minutes": 120
+        },
+        {
+            "title": "Content showcase",
+            "track": "content",
+            "source": "website_alignment",
+            "topics": [
+            ],
+            "week_no": 4,
+            "activities": [
+                "Project showcase",
+                "Questions",
+                "Peer feedback",
+                "Next-step commitment"
+            ],
+            "objectives": [
+            ],
+            "session_no": 8,
+            "description": "Present the portfolio project and explain the choices made.",
+            "is_approved": false,
+            "expected_output": "Final portfolio project and 30-day content plan",
+            "assessment_notes": "DRAFT: aligned to the DIRA websites (four tracks, 8 sessions over 4 weeks, portfolio project). Session detail needs trainer and director approval.",
+            "duration_minutes": 120
+        },
+        {
+            "title": "Opportunity spotting",
+            "track": "entrepreneurship",
+            "source": "curriculum_docx",
+            "topics": [
+            ],
+            "week_no": 2,
+            "activities": [
+                "Opportunity scan",
+                "Customer profile",
+                "Interview role-play"
+            ],
+            "objectives": [
+            ],
+            "session_no": 3,
+            "description": "Identify customer needs and business opportunities; distinguish assumptions from evidence.",
+            "is_approved": false,
+            "expected_output": "One-page opportunity statement",
+            "assessment_notes": null,
+            "duration_minutes": 120
+        },
+        {
+            "title": "Value proposition and business model",
+            "track": "entrepreneurship",
+            "source": "curriculum_docx + master_instruction_proposal",
+            "topics": [
+                "Introduction to digital marketing",
+                "Social media marketing (Facebook, Instagram, TikTok, LinkedIn)",
+                "Content planning and creation",
+                "Canva for marketing graphics",
+                "Marketing copywriting, captions and calls to action",
+                "WhatsApp Business",
+                "Digital advertising fundamentals",
+                "SEO fundamentals",
+                "Marketing analytics and measuring campaign performance",
+                "Developing a practical digital marketing strategy"
+            ],
+            "week_no": 2,
+            "activities": [
+                "Simplified business model canvas",
+                "Peer challenge"
+            ],
+            "objectives": [
+            ],
+            "session_no": 4,
+            "description": "Describe customer value and map a simple business model.",
+            "is_approved": true,
+            "expected_output": "One-page business model",
+            "assessment_notes": "Approved by DIRA (8 Nov 2026), including the digital marketing topics.",
+            "duration_minutes": 120
+        },
+        {
+            "title": "Basic venture finance",
+            "track": "entrepreneurship",
+            "source": "curriculum_docx",
+            "topics": [
+            ],
+            "week_no": 3,
+            "activities": [
+                "Cost sorting",
+                "Pricing example",
+                "Monthly forecast"
+            ],
+            "objectives": [
+            ],
+            "session_no": 5,
+            "description": "Identify start-up and operating costs, price, revenue and simple cash flow.",
+            "is_approved": false,
+            "expected_output": "Start-up budget and one-month cash-flow estimate",
+            "assessment_notes": null,
+            "duration_minutes": 120
+        },
+        {
+            "title": "Marketing and customer experience",
+            "track": "entrepreneurship",
+            "source": "curriculum_docx",
+            "topics": [
+            ],
+            "week_no": 3,
+            "activities": [
+                "Customer journey",
+                "Promotional message",
+                "Sales role-play"
+            ],
+            "objectives": [
+            ],
+            "session_no": 6,
+            "description": "Choose channels, create marketing messages and practise ethical selling.",
+            "is_approved": false,
+            "expected_output": "One-page marketing plan",
+            "assessment_notes": null,
+            "duration_minutes": 120
+        },
+        {
+            "title": "Test and pitch",
+            "track": "entrepreneurship",
+            "source": "curriculum_docx",
+            "topics": [
+            ],
+            "week_no": 4,
+            "activities": [
+                "Peer review",
+                "Revise assumptions",
+                "Prepare 3-5 minute pitch"
+            ],
+            "objectives": [
+            ],
+            "session_no": 7,
+            "description": "Use feedback to improve an idea and present a concise business pitch.",
+            "is_approved": false,
+            "expected_output": "Business concept and pitch",
+            "assessment_notes": null,
+            "duration_minutes": 120
+        },
+        {
+            "title": "Business pitch showcase",
+            "track": "entrepreneurship",
+            "source": "curriculum_docx",
+            "topics": [
+            ],
+            "week_no": 4,
+            "activities": [
+                "Pitches",
+                "Questions",
+                "Rubric feedback",
+                "Action planning"
+            ],
+            "objectives": [
+            ],
+            "session_no": 8,
+            "description": "Present an early-stage business concept and identify a realistic validation step.",
+            "is_approved": false,
+            "expected_output": "Pitch, concept summary and 30-day validation action",
+            "assessment_notes": null,
+            "duration_minutes": 120
+        }
+    ],
+    "captured_from": "supabase/seed.sql before V13 (local reset of migrations 1-29 + seed)",
+    "topic_proposals": 24
+}

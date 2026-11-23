@@ -1,0 +1,32 @@
+<!-- DIRA LEARN password reset email (Supabase Auth "Reset password" / recovery template).
+     Supabase fills in {{ .Token }} (the one-time code) and {{ .SiteURL }}. Deliberately NO {{ .ConfirmationURL }} link:
+     email security scanners that open links can use up a one-time link before the person sees it. Never put a password here. -->
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Your DIRA LEARN password reset code</title></head>
+<body style="margin:0;padding:0;background:#f4f1fa;font-family:Arial,Helvetica,sans-serif;color:#2a1650;">
+  <table role="presentation" width="100%" cellspacing="0" cellpadding="0" style="background:#f4f1fa;padding:24px 12px;">
+    <tr><td align="center">
+      <table role="presentation" width="100%" cellspacing="0" cellpadding="0" style="max-width:520px;background:#ffffff;border-radius:16px;overflow:hidden;">
+        <tr><td style="background:#4b1f8c;padding:20px 28px;">
+          <p style="margin:0;font-size:20px;font-weight:bold;color:#ffffff;">DIRA LEARN</p>
+          <p style="margin:4px 0 0;font-size:13px;color:#f7931e;letter-spacing:1px;">DIRA Foundation &middot; Education &bull; Empowerment &bull; Opportunity</p>
+        </td></tr>
+        <tr><td style="padding:28px;">
+          <h1 style="margin:0 0 12px;font-size:22px;color:#2a1650;">Reset your password</h1>
+          <p style="margin:0 0 16px;font-size:15px;line-height:1.5;">We received a request to reset the password for your DIRA LEARN account. Enter this code on the DIRA LEARN "Check your email" screen:</p>
+          <p style="margin:0 0 16px;text-align:center;">
+            <span style="display:inline-block;padding:14px 22px;border:2px solid #f7931e;border-radius:12px;font-size:30px;font-weight:bold;letter-spacing:8px;color:#4b1f8c;">{{ .Token }}</span>
+          </p>
+          <p style="margin:0 0 8px;font-size:14px;line-height:1.5;">The code works for <strong>15 minutes</strong> and can be used <strong>only once</strong>. If you ask for another code, use the newest one.</p>
+          <p style="margin:0 0 8px;font-size:14px;line-height:1.5;">DIRA LEARN will never ask you for this code by phone, SMS or WhatsApp, and will never email you a password. Do not share the code with anyone.</p>
+          <p style="margin:0;font-size:14px;line-height:1.5;">If you did not ask to reset your password, you can ignore this email. Your password has not been changed.</p>
+        </td></tr>
+        <tr><td style="padding:16px 28px;background:#f4f1fa;font-size:12px;color:#5b4a7a;">
+          Sent by DIRA LEARN ({{ .SiteURL }}) because a password reset was requested for this address.
+        </td></tr>
+      </table>
+    </td></tr>
+  </table>
+</body>
+</html>

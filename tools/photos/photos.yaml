@@ -1,0 +1,12 @@
+# Approved DIRA Foundation cover photographs (the same six the website shows). Fill in `file` with the ORIGINAL photo
+# supplied by DIRA (highest resolution available), set `approved: true` once DIRA has confirmed the photo may be used
+# (consent of the people shown), and adjust `focal` (horizontal% vertical%) so faces stay in view: "50% 30%" keeps the
+# upper third, where faces usually are, when the browser fills a wide banner. Then run:
+#   python3 tools/photos/prepare.py <folder with the originals> .
+photos:
+  - { id: story-4, file: story-4.jpg, alt: "A young woman studying with her phone and notebook", focal: "50% 35%", approved: false }
+  - { id: story-5, file: story-5.jpg, alt: "A young man smiling and looking ahead", focal: "50% 30%", approved: false }
+  - { id: intake,  file: intake.jpg,  alt: "A young man smiling as he works on his laptop", focal: "50% 35%", approved: false }
+  - { id: story-2, file: story-2.jpg, alt: "Young men sitting together on a bench outside", focal: "50% 40%", approved: false }
+  - { id: story-3, file: story-3.jpg, alt: "An older woman washing dishes outside her home", focal: "50% 40%", approved: false }
+  - { id: story-1, file: story-1.jpg, alt: "Rooftops of a crowded informal settlement seen from above", focal: "50% 50%", approved: false }

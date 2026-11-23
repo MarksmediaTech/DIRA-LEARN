@@ -1,0 +1,7 @@
+# Deployment instructions - 23 Nov 2026 (final). Do nothing until you approve.
+1. Create a feature branch (e.g. `feature/names-theme-photos`), copy DIRA-LEARN-RELEASE over your repository, review the Changes tab, open a pull request. In the Changes tab compare `CoverHero.tsx`, `LoginPage.tsx` and `PhotoStage.tsx` with `main`: the welcome and sign-in layouts should look as before, with whole photographs. release-check and database workflows must be green.
+2. On your computer: `npm ci && npm run typecheck && npm run lint && npm test && npm run build`. Fix anything red first (the two photo component tests were never run).
+3. Look at the dashboard, a curriculum page, cohort page, Chat (all sections), and the sign-in page on desktop, tablet and phone, with the real photographs.
+4. After approval, in order: (a) migration 20261122000001 (saved track), if not yet applied; (b) 20261122000002 (Chat/calendar), as in the earlier report; (c) 20261123000001 (certificate shows complete name) - paste the file into the SQL Editor; it is safe to run twice; (d) redeploy Edge Function `import-learners` (whole-name change); (e) merge to `main` so Cloudflare builds.
+5. Old website with new function (or the reverse) is harmless. The certificate page shows " ." after a whole name until step 4(c) is done.
+6. Undo: revert the pull request; redeploy the previous `import-learners`; for the certificate change run `supabase/pending/20261123000001_verify_certificate_full_name_rollback.sql`.

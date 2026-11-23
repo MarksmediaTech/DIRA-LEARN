@@ -1,0 +1,33 @@
+# DIRA LEARN - release check on GitHub (no deployment, no secrets, read-only access to the repository).
+# Runs scripts/release-check.mjs with Node 22: creates package-lock.json if it is missing, then npm ci, TypeScript,
+# ESLint, a verification build (placeholder Supabase address), dist and bundle checks and npm audit.
+# Download the "release-check" artifact: the report and, if one was created, package-lock.json to commit.
+name: release-check
+on:
+  push:
+    branches: [main, 'release-**']
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  release-check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: .nvmrc
+      - name: Release check
+        run: node scripts/release-check.mjs
+      - name: Keep the report and the lock file
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: release-check
+          path: |
+            release-check-report.md
+            release-check-report.json
+            package-lock.json
+          if-no-files-found: warn

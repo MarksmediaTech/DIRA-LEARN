@@ -1,0 +1,19 @@
+// Cloudflare Workers deployment of DIRA LEARN as a static single-page application (no server code).
+// `npm run build` (Vite + scripts/write-headers.mjs) writes the site into dist/; `npx wrangler deploy` uploads dist/ as static
+// assets. This file exists so that Wrangler does NOT run its automatic framework configuration, which would try to install
+// the Cloudflare Vite plugin (Vite 6+) and rewrite vite.config.ts and package.json during the Cloudflare build.
+// - dist/_headers (security headers incl. the Content-Security-Policy) is applied by Cloudflare to every asset response.
+// - single-page-application: browser navigations to app routes (/login, /cohorts/123 ...) receive index.html.
+// - No "main": there is no Worker script, so every response is a static asset response and carries the _headers rules.
+// - No secrets or variables here. The VITE_ build variables are set in the Cloudflare dashboard (Build > Variables).
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  // The NEW Worker (21 Nov 2026 release). A different name from the earlier deployment, so deploying this release can never
+  // replace the old site. It must equal the Worker's name in the Cloudflare dashboard (Workers & Pages).
+  "name": "dira-learn-v2",
+  "compatibility_date": "2026-11-01",
+  "assets": {
+    "directory": "./dist",
+    "not_found_handling": "single-page-application"
+  }
+}

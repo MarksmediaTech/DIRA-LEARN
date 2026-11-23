@@ -1,0 +1,77 @@
+-- DIRA LEARN - production initialization, STEP 0: read-only pre-check (20 Nov 2026)
+-- Run in the Supabase SQL editor of the production project BEFORE anything else. It only READS: no table, row,
+-- setting or permission is created, changed or deleted. Paste the whole result table back to Claude.
+--
+-- It answers: is the public schema really empty (no DIRA LEARN objects that the migrations would collide with)?
+-- Has `supabase db push` ever recorded migrations? How many sign-in accounts exist (they will be kept)?
+-- Do any storage buckets or auth.users triggers already exist that migrations 02/03/07/22/... would also create?
+-- The last row is the verdict: SAFE_TO_INITIALIZE, or STOP with the reason.
+
+with
+public_tables as (
+  select c.relname, c.relkind from pg_class c join pg_namespace n on n.oid = c.relnamespace
+   where n.nspname = 'public' and c.relkind in ('r', 'p', 'v', 'm', 'S', 'f')),
+public_types as (
+  select t.typname from pg_type t join pg_namespace n on n.oid = t.typnamespace
+   where n.nspname = 'public' and t.typtype in ('e', 'c', 'd') and not exists (select 1 from pg_class c where c.reltype = t.oid)),
+public_functions as (
+  select p.proname from pg_proc p join pg_namespace n on n.oid = p.pronamespace
+   where n.nspname = 'public' and not exists (select 1 from pg_depend d where d.objid = p.oid and d.deptype = 'e')),
+user_triggers as (
+  select tgname, tgenabled from pg_trigger where tgrelid = 'auth.users'::regclass and not tgisinternal),
+history as (
+  select case when to_regclass('supabase_migrations.schema_migrations') is null then null
+              else (xpath('/row/n/text()', query_to_xml('select count(*) as n from supabase_migrations.schema_migrations', false, true, '')))[1]::text::int end as n),
+buckets as (
+  select id from storage.buckets
+   where id in ('application-documents', 'connect-attachments', 'course-materials', 'learning-resources', 'project-evidence', 'submissions')),
+accounts as (
+  select count(*) as total,
+         count(*) filter (where email_confirmed_at is not null) as confirmed,
+         count(*) filter (where deleted_at is not null) as deleted
+    from auth.users),
+checks(ord, item, status, detail) as (
+  select 1, 'postgres version', 'info', current_setting('server_version')
+  union all
+  select 2, 'public.profiles', case when to_regclass('public.profiles') is null then 'ok' else 'STOP' end,
+         coalesce(to_regclass('public.profiles')::text, 'does not exist (expected before initialization)')
+  union all
+  select 3, 'tables/views/sequences in public', case when (select count(*) from public_tables) = 0 then 'ok' else 'STOP' end,
+         coalesce((select count(*) || ': ' || string_agg(relname, ', ' order by relname) from public_tables), '0')
+  union all
+  select 4, 'enum/composite/domain types in public', case when (select count(*) from public_types) = 0 then 'ok' else 'STOP' end,
+         coalesce((select count(*) || ': ' || string_agg(typname, ', ' order by typname) from public_types), '0')
+  union all
+  select 5, 'functions in public (not from extensions)', case when (select count(*) from public_functions) = 0 then 'ok' else 'STOP' end,
+         coalesce((select count(*) || ': ' || string_agg(distinct proname, ', ') from public_functions), '0')
+  union all
+  select 6, 'migration history (supabase_migrations)', case when coalesce((select n from history), 0) = 0 then 'ok' else 'STOP' end,
+         case when (select n from history) is null then 'no history table: db push was never used'
+              else (select n from history) || ' recorded migration(s)' end
+  union all
+  select 7, 'triggers on auth.users', case when (select count(*) from user_triggers) = 0 then 'ok' else 'STOP' end,
+         coalesce((select string_agg(tgname || case tgenabled when 'D' then ' (disabled)' else '' end, ', ') from user_triggers), 'none')
+  union all
+  select 8, 'DIRA LEARN storage buckets already present', case when (select count(*) from buckets) = 0 then 'ok' else 'STOP' end,
+         coalesce((select string_agg(id, ', ' order by id) from buckets), 'none')
+  union all
+  select 9, 'sign-in accounts in auth.users (kept unchanged)', 'info',
+         (select total || ' total, ' || confirmed || ' email-confirmed, ' || deleted || ' soft-deleted' from accounts)
+  union all
+  select 10, 'extension pgcrypto', 'info',
+         coalesce((select 'installed ' || extversion || ' in schema ' || extnamespace::regnamespace from pg_extension where extname = 'pgcrypto'),
+                  'not installed: migration 01 installs it')
+  union all
+  select 11, 'publication supabase_realtime', case when exists (select 1 from pg_publication where pubname = 'supabase_realtime') then 'ok' else 'STOP' end,
+         case when exists (select 1 from pg_publication where pubname = 'supabase_realtime') then 'present' else 'missing (migration 22 adds tables to it)' end
+  union all
+  select 12, 'current user may create in public', case when has_schema_privilege('public', 'create') then 'ok' else 'STOP' end, current_user::text
+)
+select ord, item, status, detail from checks
+union all
+select 99, 'VERDICT',
+       case when exists (select 1 from checks where status = 'STOP') then 'STOP' else 'SAFE_TO_INITIALIZE' end,
+       case when exists (select 1 from checks where status = 'STOP')
+            then 'Do not run the initialization. Send this table to Claude: ' || (select string_agg(item, '; ' order by ord) from checks where status = 'STOP')
+            else 'Public schema is empty and no migration history exists. Back up, then run the initialization.' end
+order by ord;
